@@ -15,7 +15,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	}, {"key":"csp_555dy","name":"555影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.szfx.top/down.php/0f868c06719a9247c7462f0cd24e2728.json"},
+	}, {"key":"key_zjsn","name":"追剧少年","type":0,"api":"https://www.stuo-express.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"playUrl": "http://jx.chen9.top/player/?url="},{"key":"csp_555dy","name":"555影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.szfx.top/down.php/0f868c06719a9247c7462f0cd24e2728.json"},
 {"key":"mtv_pc_快看影视","name":"🔥快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1}, {"key":"csp_QQ","name":"🐧腾讯视频","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/jar/gy.jar"},
 {"key":"爱奇艺","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/jar/gy.jar"},
 {"key":"csp_MGTV","name":"🥭芒果TV","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/shadowchiu/TVBox/raw/branch/main/jar/gy.jar"},
