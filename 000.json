@@ -196,7 +196,7 @@
 {"name":"轮询03","type":2,"url":"Sequence"},
 {"name":"解析04","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
 {"name":"解析05","type":0,"url":"https://www.nxflv.com/?url="},
-{"name":"解析06","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},{"name":"CK","type":0,"url":"https://www.ckmov.com/?url="},
+{"name":"解析06","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"解析07","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid="},
 {"name":"解析08","type":1,"url":"https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url="},
 {"name":"解析09","type":0,"url":"https://jx.zui.cm/?url="}, {"name":"m1907","type":0,"url":"https://z1.m1907.cn/?jx="},{"name":"Parwix解析","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},{"name":"刚刚影视","type":0,"url":"https://vip.fuqizhishi.com/?v="},{"name":"OK解析","type":0,"url":"https://okjx.cc/?url="}, {"name":"搬运","type":1,"url":"https://jx.bynote.top/API.php?url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
