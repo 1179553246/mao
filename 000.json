@@ -15,7 +15,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	}, {"key":"csp_Smdyy","name":"🦄电影院","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},{"key":"csp_555dy","name":"555影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.szfx.top/down.php/0f868c06719a9247c7462f0cd24e2728.json"}, {"key":"csp_293","name":"293（假）","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},{
+	}, {"key":"csp_xpath_yinfans","name":"音范丝(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/mao/raw/commit/0191f702cd51debe6b523f642ea530f42be80fcb/音范.json"},{"key":"csp_Smdyy","name":"🦄电影院","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},{"key":"csp_555dy","name":"555影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.szfx.top/down.php/0f868c06719a9247c7462f0cd24e2728.json"}, {"key":"csp_293","name":"293（假）","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},{
 			"key": "csp_Tkys",
 			"name": "天空影视",
 			"type": 3,
