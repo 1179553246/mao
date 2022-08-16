@@ -22,7 +22,7 @@
 			"api": "csp_Juhuang",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1
+			"filterable": 1,"jar":"https://gitea.com/wjj415/wjj/raw/branch/main/gg.jar;md5;0e62c852329931928250741ccbaf879b"
 		}, {
 		"key": "KanSJ_spider",
 		"name": "🛰️看视界",
