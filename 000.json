@@ -3,11 +3,11 @@
 //数据接口
    
 "sites": [
-{"key":"mtv_pc_酷云七七","name":"🔥酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"mtv_pc_酷云七七","name":"🔥酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},，
 {"key":"mtv_pc_小苹果源","name":"🔥小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_利奥影视","name":"🔥利奥影视","type":3,"api":"csp_Lib"           ,"searchable":1,"quickSearch":1,"filterable":0},
 {"key":"mtv_pc_焦炭影视","name":"🔥焦炭影视","type":3,"api":"csp_Cokemv"        ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_厂长影视","name":"🔥厂长资源","type":3,"api":"csp_Czsapp"        ,"searchable":1,"quickSearch":1,"filterable":0}, {
+{"key":"mtv_pc_厂长影视","name":"🔥厂长资源","type":3,"api":"csp_Czsapp"        ,"searchable":1,"quickSearch":1,"filterable":0}, ，
 		"key": "追剧喵",
 		"name": "🐞追剧喵",
 		"type": 3,
@@ -15,7 +15,7 @@
 		"searchable": 1,
 		"quickSearch": 1，
 		"filterable": 1
-	}, {"key":"csp_293","name":"🦜293（假）","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"http://刚刚.live/jar/"}, {"key":"csp_Tkys","name":"🐞天空影视(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/83225451/Tvbox/raw/branch/main/xxoo805.jar"},{"key":"csp_xpath_yinfans","name":"音范丝(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/mao/raw/commit/0191f702cd51debe6b523f642ea530f42be80fcb/音范.json"},{"key":"csp_Smdyy","name":"🦄电影院","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},{"key":"csp_555dy","name":"555影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.szfx.top/down.php/0f868c06719a9247c7462f0cd24e2728.json"},{
+	}, {"key":"csp_293","name":"🦜293（假）","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""}, {"key":"csp_Tkys","name":"🐞天空影视(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitea.com/83225451/Tvbox/raw/branch/main/xxoo805.jar"},{"key":"csp_xpath_yinfans","name":"音范丝(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/mao/raw/commit/0191f702cd51debe6b523f642ea530f42be80fcb/音范.json"},{"key":"csp_Smdyy","name":"🦄电影院","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},{"key":"csp_555dy","name":"555影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.szfx.top/down.php/0f868c06719a9247c7462f0cd24e2728.json"},{
 			"key": "csp_剧荒",
 			"name": "🎭剧荒",
 			"type": 3,
