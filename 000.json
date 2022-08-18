@@ -14,7 +14,8 @@
 		"api": "csp_ZJMiao",
 		"searchable": 1,
 		"quickSearch": 1,
-		"filterable": 1
+		"filterable": 1,
+		"jar":"http://刚刚.live/jar/"
 	}, {"key":"csp_555dy","name":"555影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.szfx.top/down.php/0f868c06719a9247c7462f0cd24e2728.json"}, {
       "key": "293视频",
       "name": "🛫293视频〔SP〕",
