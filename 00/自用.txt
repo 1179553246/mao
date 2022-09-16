@@ -1,6 +1,5 @@
 {
-  "spider": "http://刚刚.live/jar2/0906.jar", 
-	"wallpaper": "http://刚刚.live/图",
+  "spider":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/888.png;md5;7B65FF61E7B6887F975D9D83909361D5","wallpaper":"https://tool.weetai.cn/api",
   "lives": [
     {
       "group": "redirect",
