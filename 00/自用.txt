@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitea.com/qsy/json/raw/branch/main/jar/0902w.jar;md5;F91D55955E02050E04EF22C0307C3585",
+  "spider": "https://gitcode.net/qq_33403597/tvys/-/raw/master/916.jar",
   //"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
