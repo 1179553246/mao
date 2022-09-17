@@ -1,4 +1,75 @@
 {
+// 每日一言 (随机显示欢迎语)
+"dairyWords": [{
+    "name": "rating",
+    "request": {
+     "method": "GET",
+     "url": {
+      "raw": "https://v.api.aa1.cn/api/yiyan/index.php?type=get"
+     }
+    },
+    "response": {
+        "result": "$.data.content"
+    },
+    "expires" : "43200"
+}],
+
+
+
+// 首页推荐视频 (豆瓣)
+"recommend": [{
+ "name": "豆瓣推荐",
+ "request": {
+  "method": "GET",
+  "header": [{
+   "key": "Referer",
+   "value": "https://movie.douban.com/"
+  }],
+  "url": {
+   "raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"
+  }
+ },
+ "response": {
+  "result": "$.data",
+  "data": [{
+    "key": "name",
+    "value": "title"
+   },
+   {
+    "key": "note",
+    "value": "rate"
+   },
+   {
+    "key": "pic",
+    "value": "cover"
+   }
+  ]
+ },
+ "expires" : "86400"
+}],
+
+
+
+
+// 评分 (数据来自 豆瓣)
+"rating": [{
+    "name": "rating",
+    "request": {
+     "method": "GET",
+     "url": {
+      "raw": "https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"
+     }
+    },
+    "response": {
+        "result": "this",
+        "data": [
+       {
+        "key": "rating",
+        "value": "doubanRating"
+       }
+      ]
+    }
+}],
    
 //数据接口
    
@@ -265,7 +336,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "e2f22158b3614acb87857fde40563c8a"
+            "ext": "3781469b13074e4cac1e0e7113e4fa20"
         },
         {
             "key": "zhaozy",
@@ -299,7 +370,7 @@
         },
 
 
-{"key":"push_agent"     ,"name":"🔍推送资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0},
+{"key":"push_agent"     ,"name":"🔍推送资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0, "ext": "3781469b13074e4cac1e0e7113e4fa20"},
 
 {"key":"mtv_xp_酷奇视频","name":"💦酷奇视频","type":3,"api":"csp_XPath"         ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://mtv.weetai.cn/xpath/酷奇视频.json"},
 {"key":"mtv_xp_虎牙直播","name":"💦虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mtv.weetai.cn/xpath/虎牙直播.json"},
