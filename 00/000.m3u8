@@ -240,7 +240,7 @@
         "少儿",
         "其他片"
       ]
-    },
+    }, {"key":"mtv_xb_五一","name":"爬虫┃五一","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/qq_33403597/tvys/-/raw/master/五一.json"},
 {"key":"mtv_pc_酷猫影视","name":"🔥酷猫影视","type":3,"api":"csp_Kmys"          ,"searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"mtv_pc_奥特影视","name":"🔥奥特影视","type":3,"api":"csp_Auete"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_视界影视","name":"🔥视界影视","type":3,"api":"csp_KanSJ"         ,"filterable":1,"quickSearch":1,"searchable":1},
