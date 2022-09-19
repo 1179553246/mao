@@ -328,49 +328,11 @@
 {"key":"mtv_pc_官方资源","name":"🔥官方资源","type":3,"api":"csp_SP360"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_293视频" ,"name":"🔥293视频" ,"type":3,"api":"csp_SP293"         ,"searchable":1,"quickSearch":1,"filterable":1},
 
-{
-            "key": "Gitcafe",
-            "name": "小纸条(爬虫)",
-            "type": 3,
-            "api": "csp_Gitcafe",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "3781469b13074e4cac1e0e7113e4fa20"
-        },
-        {
-            "key": "zhaozy",
-            "name": "找资源(仅搜索)",
-            "type": 3,
-            "api": "csp_FindZY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "3781469b13074e4cac1e0e7113e4fa20"
-        },
-        {
-            "key": "AliPS",
-            "name": "盘搜(仅搜索)",
-            "type":3,
-            "api":"csp_AliPS",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext": "3781469b13074e4cac1e0e7113e4fa20"
-        },
-        {
-            "key": "Yiso",
-            "name": "一搜(仅搜索)",
-            "type": 3,
-            "api": "csp_Yiso",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "3781469b13074e4cac1e0e7113e4fa20"
-        },
-
-
-{"key":"push_agent"     ,"name":"🔍推送资源","type":3,"api":"csp_PushAgent"     ,"searchable":0,"quickSearch":0,"filterable":0, "ext": "3781469b13074e4cac1e0e7113e4fa20"},
+{"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key":"Yisou","name":"😺易搜(搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key":"Zhaozy","name":"😺找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key":"csp_Alips","name":"🐱喵搜(搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key":"push_agent","name":"😺推送(爱优腾/云盘/磁力)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
 
 {"key":"mtv_xp_酷奇视频","name":"💦酷奇视频","type":3,"api":"csp_XPath"         ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://mtv.weetai.cn/xpath/酷奇视频.json"},
 {"key":"mtv_xp_虎牙直播","name":"💦虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mtv.weetai.cn/xpath/虎牙直播.json"},
