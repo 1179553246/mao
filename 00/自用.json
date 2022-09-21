@@ -25,7 +25,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar":"http://刚刚.live/jar2/0920.jar"
-    },
+    }, {
+            "key" : "csp_xBPQ_小猫咪",
+            "name" : "📺小猫咪",
+            "type" : 3,
+            "api" : "csp_xBPQ",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 0,
+            "jar" : "",
+            "ext" : "https://agit.ai/66666/mao/raw/branch/master/json/小猫咪.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"
+        },
      {
       "key": "360_spider",
       "name": "🎾360影视（官）",
