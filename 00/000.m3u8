@@ -80,7 +80,7 @@
       "api": "csp_AppTT",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1, "jar": "https://agit.ai/qi169/My9394/raw/branch/master/jar/0920.jar ;md5;03f2d44accd9f71777dfca7995a8a630"
+      "filterable": 1
     },{
      "key": "T4a",
      "name": "🍁T4聚合",
@@ -495,7 +495,7 @@
 
 //jar+壁纸
 
-"spider": "http://刚刚.live/jar2/0906.jar","wallpaper":"https://tool.weetai.cn/api",
+"spider": "http://刚刚.live/jar2/0920.jar","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
