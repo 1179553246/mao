@@ -9,7 +9,7 @@
   "live","urls": ["proxy://do=live&type=txt&ext= aHR0cHM6Ly9hZ2l0LmFpLzY2NjY2L21hby9yYXcvY29tbWl0L2Q4N2Y2YTM5YzI4NTVhNWU2ODU1ZmJiOTRiOTQzNTE5MmZmMTk5ZWQvMDAvdmlwLnR4dA=="]}]}],
 
   "sites": [
-  {"key":"","name":"🌈关注公众号应用多多，获取VIP直播密码","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
+  {"key":"","name":"🌈一个分享者更新维护","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
   {"key": "csp_77","name": "🌤酷云七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},  
   {"key":"csp_Kuaikan","name":"🔥快看影院","type": 3,"api":"csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
   {"key": "KanSJ_spider","name": "🦅看视界","api": "csp_KanSJ","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
