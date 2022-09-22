@@ -36,15 +36,15 @@
             "jar" : "",
             "ext" : "https://agit.ai/66666/mao/raw/branch/master/json/喳饭.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"
         }, {
-            "key" : "csp_xBPQ_1905",
-            "name" : "1905",
+            "key" : "csp_xBPQ_DDZ",
+            "name" : "蛋蛋赞",
             "type" : 3,
             "api" : "csp_xBPQ",
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 0,
             "jar" : "",
-            "ext" : "https://agit.ai/66666/mao/raw/commit/1efde3a5be6a9b47b4f61650514de4222302c357/json/1905.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"
+            "ext" : "https://agit.ai/66666/mao/raw/branch/master/json/DDZ.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"
         },
      {
       "key": "360_spider",
