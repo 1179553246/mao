@@ -46,17 +46,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1
-    }, {
-            "key" : "csp_xBPQ_xc",
-            "name" : "星辰",
-            "type" : 3,
-            "api" : "csp_xBPQ",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "jar" : "",
-            "ext" : "https://agit.ai/66666/mao/raw/branch/master/json/xc%20.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"
-        },
+    },
     {
       "key": "csp_QQ",
       "name": "🐧腾讯（官）",
