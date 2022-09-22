@@ -47,7 +47,7 @@
       "quickSearch": 1,
       "searchable": 1
     }, {
-            "key" : "csp_xBPQ_zz ",
+            "key" : "csp_xBPQ_xc",
             "name" : "子子",
             "type" : 3,
             "api" : "csp_xBPQ",
@@ -55,17 +55,7 @@
             "quickSearch" : 1,
             "filterable" : 0,
             "jar" : "",
-            "ext" : "{
-"分类url": "https://www.ziziys.com/vsearch/--.html?wd=",
-"热门推荐": "1",
-"起始页": "1",
-"直接播放": "1",
-"数组": "{&&}",
-"图片": "imageUrl\":\"&&\"",
-"标题": "cname\":\"&&\"",
-"链接": "id\":\"&&\"",
-"链接前缀": "https://www.ziziys.com/vsearch/--.html?wd="
-}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"
+            "ext" : "https://agit.ai/66666/mao/raw/branch/master/json/xc%20.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"
         },
     {
       "key": "csp_QQ",
