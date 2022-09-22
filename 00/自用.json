@@ -51,6 +51,18 @@
 \"播放数组\":\"class=\\\"module-play-list&&</div>\",
 \"分类url\":\"https://www.voflix.com/show/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"},
 
+{"key": "csp_xBPQ_xmm ","name": "小猫咪","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{
+\"免嗅\":\"1\",
+\"导演\": \"导演：&&</div\",
+\"主演\": \"主演：&&</div\",
+\"简介\": \"module-info-introduction-content&&</div>\",
+\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
+\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",
+\"线路标题\": \"<span>&&</span>\",
+\"播放标题\":\"span>&&<\",
+\"播放数组\":\"class=\\\"module-play-list&&</div>\",
+\"分类url\":\"https://xmaomi.net/vod_____show/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"},
+
      {
       "key": "360_spider",
       "name": "🎾360影视（官）",
