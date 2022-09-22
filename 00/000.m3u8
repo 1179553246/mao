@@ -90,7 +90,7 @@
      "quickSearch": 1,
      "filterable": 1
      },{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"mtv_pc_酷云七七","name":"🔥酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},   {
+{"key":"mtv_pc_酷云七七","name":"🔥酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},   {"key": "csp_xBPQ_FREE","name": "️FREEOK(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://www.86516.tk/vodshow/{cateId}--------{catePg}---/\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"},{
          "key":"csp_Kunyu77",
          "name":"👒酷云七七(新版)",
          "type":3,"api":"csp_Kunyu77",                   "searchable":1,
