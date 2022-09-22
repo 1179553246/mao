@@ -37,7 +37,8 @@
             "ext" : "https://agit.ai/66666/mao/raw/branch/master/json/喳饭.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"
         }, {"key": "csp_xf_cs","name": "️FREEOK(XF)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$2#剧集$1#综艺$3#动漫$4#学习$27\",\"分类url\":\"https://www.86516.tk/vodshow/{cateId}--------{catePg}---/\"}",
-"jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"},
+"jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"}, {"key": "csp_xBPQ_荐片","name": "荐片影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"http://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"},
+
      {
       "key": "360_spider",
       "name": "🎾360影视（官）",
