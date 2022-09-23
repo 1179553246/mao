@@ -39,13 +39,13 @@
 "ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$2#剧集$1#综艺$3#动漫$4#学习$27\",\"分类url\":\"https://www.86516.tk/vodshow/{cateId}--------{catePg}---/\"}",
 "jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"}, {"key": "csp_xBPQ_荐片","name": "荐片影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"http://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar;md5; 8771b4d23f37ec45246dc1e6e3339bcf"},
 
- {"key": "csp_biubiu_素白白","name": "素白白","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/commit/60ffdc9103bb220127639ad25eb0d05e0eafe467/json/素白白.json","jar":"http://刚刚.live/jar2/0920.jar"},
+ {"key": "csp_XYQH_素白白","name": "素白白","type": 3,"api": "csp_XYQH","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/commit/60ffdc9103bb220127639ad25eb0d05e0eafe467/json/素白白.json","jar":"http://刚刚.live/jar2/0920.jar"},
 
 {"key": "csp_xBPQ_干饭影视","name": "️干饭影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类url\":\"https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"},{"key": "csp_xBPQ_um影院","name": "️XBPQ | UM影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://www.umkan.com/index.php/vod/show/id/{cateId}/page/{catePg}.html\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"},
 
   {
       "key": "csp_xBPQ_番茄",
-      "name": "番茄影视",
+      "name": "番茄影视(XBPQ)",
       "type": 3,
       "api": "csp_xBPQ",
       "searchable": 1,
