@@ -43,7 +43,7 @@
 
 {"key": "csp_xBPQ_干饭影视","name": "️干饭影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类url\":\"https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"},{"key": "csp_xBPQ_um影院","name": "️XBPQ | UM影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://www.umkan.com/index.php/vod/show/id/{cateId}/page/{catePg}.html\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"},
 
- {
+  {
       "key": "csp_xBPQ_番茄",
       "name": "番茄影视",
       "type": 3,
@@ -53,14 +53,14 @@
       "filterable": 0,
       "ext": "{
 \"免嗅\":\"1\",
-\"播放标题\":\">&&<\",
+ \"播放标题\":\">&&<\",
 \"导演\": \"导演：&&</div\",
 \"主演\": \"主演：&&</div\",
 \"简介\": \"module-info-introduction-content&&</div>\",
 \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
 \"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",
 \"线路标题\": \"<span>&&</span>\",
-\"播放数组\":\"class=\\\"hl-plays-list&&</div>\,
+\"播放数组\":\"class=\\\"hl-plays-list&&</div>\",
 \"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5\",
 \"分类url\":\"https://www.tjomet.com/vodshow/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"
     },
