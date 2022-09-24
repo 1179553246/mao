@@ -43,35 +43,9 @@
 "ext": "{\"分类url\":\"https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html\"}",
 "jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ0.jar"},
 
- {"key": "csp_xBPQ_ah视频","name": "ah视频(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/ah视频.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ%20%281%29.jar"},
-
  {"key": "csp_xBPQ_极品影视","name": "极品影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/commit/7a2c9d10f6ac90df0264d07610eafb6d59b9c020/json/极品影视.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ%20%281%29.jar"},
 
  {"key": "csp_xBPQ_动视影视","name": "动视影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/动视影视.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ%20%281%29.jar"},
-
-{
-"key": "csp_xBPQ_app影视",
-"name": "app影视(XBPQ)",
-"type": 3,
-"api": "csp_xBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "{
-\"免嗅\":\"1\",
-\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",
-
-\"导演\": \"导演：&&</div\",
-\"主演\": \"主演：&&</div\",
-\"简介\": \"简介：&&</li>\",
-
-\"播放标题\":\">&&<\",
-\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",
-\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3\",
-\"分类url\":\"https://app.movie/index.php/vod/type/id/{cateId}/page/{catePg}.html\",
-\"年份\":\"2000-2022\",
-\"筛选\":\"1\",
-"jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ3.jar"},
 
 {"key": "csp_xBPQ_干饭影视","name": "️干饭影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类url\":\"https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"},
 
