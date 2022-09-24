@@ -67,7 +67,7 @@
 
 {
 "key": "csp_xBPQ_皮皮泡影视",
-"name": "皮皮泡影视",
+"name": "皮皮泡影视(XBPQ)",
 "type": 3,
 "api": "csp_xBPQ",
 "searchable": 1,
@@ -80,7 +80,7 @@
 \"主演\": \"主演：&&</div\",
 \"播放标题\":\">&&<\",
 \"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",
-\"分类\":\"国产剧$13#电视剧$dianshiju#动漫$dongman#电影$dianyin#综艺$zongyi#纪录片$jilupian\",
+\"分类\":\"国产剧$13#电视剧$dianshiju#动漫$dongman#电影$dianying#综艺$zongyi#纪录片$jilupian\",
 \"分类url\":\"https://www.pipipao.com/vodshow/id/{cateId}/page/{catePg}.htmll\",
 \"年份\":\"2000-2022\",
 \"筛选\":\"1\"
@@ -123,7 +123,7 @@
 }",
 "jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ3.jar"},
 
- {"key": "csp_xBPQ_极品影视","name": "极品影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/commit/7a2c9d10f6ac90df0264d07610eafb6d59b9c020/json/极品影视.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ%20%281%29.jar"},
+ {"key": "csp_xBPQ_极品影视","name": "极品影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/极品影视.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ%20%281%29.jar"},
 
  {"key": "csp_xBPQ_动视影视","name": "动视影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/动视影视.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ%20%281%29.jar"},
 
