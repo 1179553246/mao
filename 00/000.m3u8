@@ -115,6 +115,8 @@
 \"筛选\":\"1\"
 }",
 
+"jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ3.jar"},
+
  {"key": "csp_xBPQ_动视影视","name": "动视影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/动视影视.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ%20%281%29.jar"}, 
  {"key": "csp_xBPQ_干饭影视","name": "️干饭影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类url\":\"https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ3.jar"},
  {
