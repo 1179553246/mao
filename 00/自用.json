@@ -41,7 +41,7 @@
 
 {"key": "csp_xBPQ_ganfan","name": "️🥣干饭(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,
 "ext": "{\"分类url\":\"https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html\"}",
-"jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ3.jar"},
+"jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ0.jar"},
 
  {"key": "csp_xBPQ_ah视频","name": "ah视频(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/ah视频.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ%20%281%29.jar"},
 
