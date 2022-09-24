@@ -146,6 +146,28 @@
 \"年份\":\"1990-2022\",
 \"筛选\":\"1\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ3.jar"},
 
+{"key": "csp_xBPQ_花猫","name": "️XBPQ | 花猫tv","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "{\"副标题\":\"class=\\\"pic-text\\\">&&</span>\",\"线路数组\": \"/span><h3 class=\\\"title&&/h3>\",
+\"线路标题\": \">&&<\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类url\":\"http://www.huamaotv.com/type/{cateId}-{catePg}.html\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ3.jar"},
+
+{"key": "csp_xBPQ_看戏影视",
+"name": "看戏影视(XBPQ)",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "{
+\"免嗅\":\"0\",
+\"副标题\":\"class=\\\"pic-text text-center\\\">&&</span>\",
+\"导演\": \"导演：&&</p\",
+\"主演\": \"主演：&&</p\",
+\"播放标题\":\">&&<\",
+\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",
+\"分类\":\"电视剧$2#电影$1#动漫$4#综艺$3\",
+\"分类url\":\"https://www.kanxi123.net/tags/{cateId}--------{catePg}---.html\",
+\"年份\":\"2000-2022\",
+\"筛选\":\"1\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ3.jar"},    
+
  {"key": "csp_xBPQ_动视影视","name": "动视影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/动视影视.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ%20%281%29.jar"}, 
  {"key": "csp_xBPQ_干饭影视","name": "️干饭影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类url\":\"https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ3.jar"},
  {
