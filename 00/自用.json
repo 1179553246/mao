@@ -85,8 +85,11 @@
 "线路标题": "<span>&&</span>",
 "分类":"电视剧$2#动漫$4#电影$1#综艺$3",
 "分类url":"https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html",
-"年份":"2004-2022",
-"筛选":"1"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ3.jar"},
+
+\"年份\":\"2000-2022\",
+\"筛选\":\"1\"
+}",
+"jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ3.jar"},
 
 {
 "key": "csp_xBPQ_皮皮泡影视",
