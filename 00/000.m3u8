@@ -591,7 +591,23 @@
 "parses":[
 {"name":"聚合01","type":3,"url":"Demo"},
 {"name":"并发02","type":2,"url":"Parallel"},
-{"name":"轮询03","type":2,"url":"Sequence"},
+{"name":"轮询03","type":2,"url":"Sequence"}, 
+p{
+		"name": "GGTV0",
+		"type": 1,
+		"url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobaiiiii&url="
+	},
+	{
+		"name": "GGTV1",
+		"type": 1,
+		"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
+	},
+	{"name":"Fosi","type":0,"url":"https://play.fositv.com/?url="},
+	{
+		"name": "OKjx",
+		"type": 0,
+		"url": "https://okjx.cc/?url="
+	},
 {"name":"解析04","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="}, {"name":"Fosi嗅探","type":0,"url":"https://play.fositv.com/?url="},
 {"name":"解析05","type":0,"url":"https://www.nxflv.com/?url="},
 {"name":"解析06","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
