@@ -73,15 +73,8 @@
    
 //数据接口
    
-"sites": [	{    
-      "key": "图图",
-      "name": "图图(SP)",
-      "type": 3,
-      "api": "csp_AppTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },{
+"sites": [	{"key": "csp_AppTT" ,"name": "图图（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1, "jar": "https://agit.ai/hongdeng98/XZY/raw/branch/main/jar/LZ0923%283%29+TT%e4%b8%8d%e7%a8%b3%e5%ae%9a.jar"},
+{
      "key": "T4a",
      "name": "🍁T4聚合",
      "type": 4,
@@ -90,7 +83,7 @@
      "quickSearch": 1,
      "filterable": 1
      },{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"mtv_pc_酷云七七","name":"🔥酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},   {"key": "csp_xf_cs","name": "️FREEOK(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
+{"key":"mtv_pc_酷云七七","name":"🔥酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1},  {"key":"csp_SP293","name":"293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/SP293.jar;md5;B0E36660C3DAC82272D197ED16C7C6E2"}, {"key": "csp_xf_cs","name": "️FREEOK(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$2#剧集$1#综艺$3#动漫$4#学习$27\",\"分类url\":\"https://www.86516.tk/vodshow/{cateId}--------{catePg}---/\"}",
 "jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ3.jar"},  {"key": "csp_xBPQ_zizi ","name": "🍀子子影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/zizi.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ3.jar"},   {"key": "csp_xBPQ_极品影视","name": "极品影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/commit/7a2c9d10f6ac90df0264d07610eafb6d59b9c020/json/极品影视.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ3.jar"},
 
@@ -227,14 +220,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
- {
-      "key": "293视频",
-      "name": "🛫293视频〔SP〕",
-      "type": 3,
-      "api": "csp_SP293",
-      "searchable": 1,
-      "quickSearch": 1,
-       "filterable":1},{"key":"csp_293","name":"293（假）","api":"csp_SP293","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},{
+{
 			"key": "csp_Tkys",
 			"name": "天空影视",
 			"type": 3,
