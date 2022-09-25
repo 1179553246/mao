@@ -196,17 +196,16 @@
 \"播放数组\":\"class=\\\"module-play-list&&</div>\",
 \"分类url\":\"https://www.voflix.com/show/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ3.jar"},
 
-{"key": "csp_xBPQ_wwwdy","name": "555电影(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{
-\"免嗅\":\"1\",
-\"导演\": \"导演：&&</div\",
+{"key": "csp_xBPQ_磁搜","name": "磁搜影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"导演\": \"导演：&&</p\",
+\"主演\": \"主演：&&</p\",
+\"简介\": \"module-info-introduction-content&&</div>\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://cokemv.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\", \"年份\":\"1990-2022\",
+\"筛选\":\"1\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ3.jar"},
+
+{"key": "csp_xBPQ","name": "️真不卡","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\">&&<\",\"导演\": \"导演：&&</div\",
 \"主演\": \"主演：&&</div\",
-\"简介\": \"module-info-introduction-content&&</div>\",
-\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
-\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",
-\"线路标题\": \"<span>&&</span>\",
-\"播放标题\":\"span>&&<\",
-\"播放数组\":\"class=\\\"module-play-list&&</div>\",
-\"分类url\":\"http://zhenfanjixie.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ3.jar"},
+\"简介\": \"module-info-introduction-content&&</div>\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类url\":\"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html\", \"年份\":\"1990-2022\",
+\"筛选\":\"1\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ3.jar"},
+
 {"key":"csp_xpath_007","name":"零零柒(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/007.json"},
 {"key":"mtv_pc_小苹果源","name":"🔥小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_利奥影视","name":"🔥利奥影视","type":3,"api":"csp_Lib"           ,"searchable":1,"quickSearch":1,"filterable":0},
