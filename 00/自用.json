@@ -25,17 +25,30 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar":"https://agit.ai/66666/mao/raw/branch/master/jar/%e5%9b%be%e5%9b%be.jar"
-    }, {"key": "csp_xBPQ_zizi ","name": "🍀子子影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/zizi.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ%20%281%29.jar"},{
-            "key" : "csp_xBPQ_喳饭",
-            "name" : "📺喳饭",
-            "type" : 3,
-            "api" : "csp_xBPQ",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "jar" : "",
-            "ext" : "https://agit.ai/66666/mao/raw/branch/master/json/喳饭.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ.jar"
-        }, {"key": "csp_xf_cs","name": "️FREEOK(XF)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
+    }, {"key": "csp_xBPQ_zizi ","name": "🍀子子影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/zizi.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ%20%281%29.jar"}, {
+"key": "csp_xBPQ_热播酷","name": "热播酷(XBPQ)",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "{
+\"免嗅\":\"\",
+\"嗅探词\": \"m3u8?#.m3u8#mp4#.flv#.mp3#.m4a\",
+\"副标题\":\"></i>&&</span>\",
+\"导演\": \"导演：&&</p\",
+\"主演\": \"主演：&&</p\",
+\"简介\": \"zkjj_a\\\"&&</span\",
+\"线路二次截取\": \"class=\\\"py-tabs&&/select>\",
+\"线路数组\":\"<option&&/option>\",
+\"线路标题\":\">&&<\",
+\"播放数组\":\"class=\\\"player&&</ul>\",
+\"播放标题\":\">&&</a\",
+\"分类\":\"电视剧$tv#动漫$dm#电影$dy#综艺$zy\",
+\"分类url\":\"https://www.reboku.cc/k/{cateId}-{catePg}.html\",
+
+\"年份\":\"1990-2022\",
+\"筛选\":\"1\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ3.jar"},{"key": "csp_xf_cs","name": "️FREEOK(XF)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$2#剧集$1#综艺$3#动漫$4#学习$27\",\"分类url\":\"https://www.86516.tk/vodshow/{cateId}--------{catePg}---/\"}",
 "jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ%20%281%29.jar"}, {"key": "csp_xBPQ_荐片","name": "荐片影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"http://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ%20%281%29.jar"},
 
