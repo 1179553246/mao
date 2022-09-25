@@ -16,7 +16,7 @@
   ],
   "sites": [
 
-{"key":"csp_77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, {    
+{"key":"csp_77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, {"key":"csp_SP293","name":"293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/00700/vvebo/raw/branch/main/spider/SP293.jar;md5;B0E36660C3DAC82272D197ED16C7C6E2"},{    
       "key": "图图",
       "name": "图图",
       "type": 3,
@@ -24,7 +24,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"http://刚刚.live/jar2/0920.jar"
+      "jar":"https://agit.ai/66666/mao/raw/branch/master/jar/%e5%9b%be%e5%9b%be.jar"
     }, {"key": "csp_xBPQ_zizi ","name": "🍀子子影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/zizi.json","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ%20%281%29.jar"},{
             "key" : "csp_xBPQ_喳饭",
             "name" : "📺喳饭",
