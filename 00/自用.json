@@ -324,7 +324,7 @@
         "少儿",
         "其他片"
       ]
-    }, {"key":"csp_XYQHiker_冷曦影视","name":"冷曦影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%86%B7%E6%9B%A6%E5%BD%B1%E8%A7%86.json","jar":"https://agit.ai/hongdeng98/XZY/raw/branch/main/jar/cp0921.jar;md5;77634a6d6a6134526fecfd986bdd5bce"},
+    }, {"key":"csp_XYQH_冷曦影视","name":"冷曦影视","type":3,"api":"csp_XYQH","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%86%B7%E6%9B%A6%E5%BD%B1%E8%A7%86.json","jar":"https://agit.ai/hongdeng98/XZY/raw/branch/main/jar/cp0921.jar;md5;77634a6d6a6134526fecfd986bdd5bce"},
 	    {
       "key": "csp_biubiu_饭团1",
       "name": "🍙饭团高清",
