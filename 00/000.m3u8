@@ -151,6 +151,16 @@
 "filterable": 0,
 "ext": "https://agit.ai/66666/mao/raw/branch/master/json/六度TV.json"},
 
+{
+"key": "csp_xBPQ_UM影院",
+"name": "UM影院(XBPQ)",
+"type": 3,
+"api": "csp_xBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://agit.ai/66666/mao/raw/branch/master/json/UM影院.json"},
+
  {"key": "csp_xBPQ_动视影视","name": "动视影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/动视影视.json"}, 
  {"key": "csp_xBPQ_干饭影视","name": "️干饭影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类url\":\"https://www.gfysys1.com/vodshow/{cateId}--------{catePg}---.html\"}"},
  {
