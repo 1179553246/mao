@@ -187,17 +187,7 @@
 \"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$5\",
 \"分类url\":\"https://www.tjomet.com/vodshow/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html\"}"
     },
-     {"key": "csp_xBPQ_蓝光影视","name": "蓝光影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://www.lgyy.cc/vodtype/{cateId}/page/{catePg}---.html\"}"},{"key": "csp_xBPQ_荐片","name": "荐片影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"http://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"}, {"key": "csp_xBPQ_voflix","name": "voflix(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{
-\"免嗅\":\"1\",
-\"导演\": \"导演：&&</div\",
-\"主演\": \"主演：&&</div\",
-\"简介\": \"module-info-introduction-content&&</div>\",
-\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
-\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",
-\"线路标题\": \"<span>&&</span>\",
-\"播放标题\":\"span>&&<\",
-\"播放数组\":\"class=\\\"module-play-list&&</div>\",
-\"分类url\":\"https://www.voflix.com/show/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html\"}"},
+     {"key": "csp_xBPQ_蓝光影视","name": "蓝光影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://www.lgyy.cc/vodtype/{cateId}/page/{catePg}---.html\"}"},{"key": "csp_xBPQ_荐片","name": "荐片影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"http://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
 
 {"key": "csp_xBPQ_磁搜","name": "磁搜影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"导演\": \"导演：&&</p\",
 \"主演\": \"主演：&&</p\",
