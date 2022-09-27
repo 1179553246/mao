@@ -60,6 +60,8 @@
 \"筛选\":\"1\"}"},{"key": "csp_xf_cs","name": "️FREEOK(XF)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$2#剧集$1#综艺$3#动漫$4#学习$27\",\"分类url\":\"https://www.86516.tk/vodshow/{cateId}--------{catePg}---/\"}"}, {"key": "csp_xBPQ_荐片","name": "荐片影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"http://www.jpys.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
 
+@本来 {"key":"csp_xBPQ_奇粹","name":"️奇粹影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"嗅探词\":\".m3u8\",\"过滤词\":\"blssv.com\",\"分类url\":\"http://www.blssv.com/index.php/vod/show/id/{cateId}/page/{catePg}.html\",\"二次截取\":\"module-page&&id=\\\"page\\\"\",\"数组\":\"<a&&</a>\",\"分类\":\"电影$20#连续剧$21#动漫$22#海外$23#综艺$24\",\"播放数组\":\"module-play-list-base\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"span>&&<[替换:多多广告>>免嗅秒播]\"}","jar":""},
+
 {
 "key": "csp_xBPQ_酷客影视",
 "name": "酷客影视",
@@ -229,9 +231,6 @@
 \"播放标题\":\"span>&&<\",
 \"播放数组\":\"class=\\\"module-play-list&&</div>\",
 \"分类url\":\"http://zhenfanjixie.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html\"}"},
-
-{"key": "奇粹影视","name": "️奇粹影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"分类url\":\"http://www.blssv.com/index.php/vod/show/id/{cateId}/page/{catePg}.html\",\"数组\":\"class=\\\"module-item-pic&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"span>&&<[替换:多多广告>>免嗅秒播]\",\"免嗅\": \"1\",\"分类\":\"电影$20#连续剧$21#动漫$22#海外$23#综艺$24\",\"播放数组\":\"class=\\\"sort-item&&</div>\",\"播放列表\": \"<a&&/a>[不含序号:2]\",\"搜索后缀\":\"/vod/detail/id/\", \"年份\":\"1990-2022\",
-\"筛选\":\"1\"}","jar":""},
 
 {"key": "csp_xBPQ_蓝光影视","name": "蓝光影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类url\":\"https://www.lgyy.cc/vodtype/{cateId}/page/{catePg}---.html\"}"},
 
