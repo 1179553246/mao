@@ -101,7 +101,15 @@
    "searchable": 2,
    "quickSearch": 0,
    "filterable": 1,"jar":"http://43.139.29.179:5705/files/custom_spider.jar"
-  },
+  }, {
+            "key": "csp_Ninanying",
+            "name": "SP | NianYing",
+            "type": 3,
+            "api": "csp_Nianying",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
   {"key":"csp_SP293","name":"293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1}, {"key":"csp_Bttoo","name":"BTToo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1}, {"key": "csp_xf_cs","name": "️FREEOK(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$2#剧集$1#综艺$3#动漫$4#学习$27\",\"分类url\":\"https://www.86516.tk/vodshow/{cateId}--------{catePg}---/\"}"},  {"key": "csp_xBPQ_zizi ","name": "🍀子子影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/zizi.json"},   {"key": "csp_xBPQ_极品影视","name": "极品影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/commit/7a2c9d10f6ac90df0264d07610eafb6d59b9c020/json/极品影视.json"},
 
@@ -217,6 +225,28 @@
 \"主演\": \"主演：&&</div\",
 \"简介\": \"module-info-introduction-content&&</div>\",\"播放数组\":\"class=\\\"stui-content__playlist&&</div>\",\"分类url\":\"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html\", \"年份\":\"1990-2022\",
 \"筛选\":\"1\"}"},
+
+{
+      "key": "csp_xBPQ_耐看",
+      "name": "耐看点播(CBPQ)",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "{
+\"免嗅\":\"1\",
+\"播放标题\":\"span>&&<\",
+\"导演\": \"导演：&&</div\",
+\"主演\": \"主演：&&</div\",
+\"简介\": \"module-info-introduction-content&&</div>\",
+\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
+\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",
+\"线路标题\": \"<span>&&</span>\",
+\"播放数组\":\"class=\\\"module-play-list&&</div>\",
+\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",
+\"分类url\":\"https://www.nkdyw.com/show/{cateId}--------{catePg}---.html\"}"
+    },
 
 {"key":"csp_xpath_007","name":"零零柒(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/007.json"},
 {"key":"mtv_pc_小苹果源","name":"🔥小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1},
