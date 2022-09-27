@@ -100,7 +100,7 @@
    "api": "http://43.139.29.179:5705/vod?rule=酷云77",
    "searchable": 2,
    "quickSearch": 0,
-   "filterable": 1,"jar":"http://43.139.29.179:5705/files/custom_spider.jar"
+   "filterable": 1
   }, {
             "key": "csp_Ninanying",
             "name": "SP | NianYing",
@@ -164,6 +164,9 @@
 
 {"key": "csp_xBPQ_大米星球","name": "️大米星球(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</small>\",\"播放标题\":\"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$20#电视剧$21#综艺$22#动漫$23\",\"分类url\":\"https://www.dmxq.me/vodshow/{cateId}--------{catePg}---.html\",
 \"年份\":\"1990-2022\",
+\"筛选\":\"1\"}"},
+
+{"key":"csp_cBq_工厂","name":"影视工厂(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"副标题\":\"class=\\\"handle-btn-name\\\">&&</span>\",\"导演\":\"导演：&&</div\",\"主演\":\"主演：&&</div\",\"简介\":\"简介：&&</li>\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"myui-content__list&&</ul>\",\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3#国产剧$13#港台剧$14\",\"分类url\":\"http://www.ysgc.cc/vodshow/{cateId}--------{catePg}---.html\", \"年份\":\"1990-2022\",
 \"筛选\":\"1\"}"},
 
 {"key": "csp_xBPQ_花猫","name": "️花猫tv(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "{\"副标题\":\"class=\\\"pic-text\\\">&&</span>\",\"线路数组\": \"/span><h3 class=\\\"title&&/h3>\",
