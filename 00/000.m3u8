@@ -180,14 +180,14 @@
         },
 
 {
-            "key":"csp_xBPQ_诺讯影视",
-            "name":"诺讯影视(XBPQ)",
+            "key":"csp_xBPQ_爱看影视",
+            "name":"爱看影视(XBPQ)",
             "type":3,
             "api":"csp_xBPQ",
             "searchable":1,
             "quickSearch":1,
             "filterable":0,
-            "ext":"https://agit.ai/66666/mao/raw/branch/master/json/诺讯.json"
+            "ext":"https://agit.ai/895322156/Q/raw/branch/master/xBPQ/ikanys.json"
         },
 
 {"key":"csp_cBq_工厂","name":"影视工厂(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"副标题\":\"class=\\\"handle-btn-name\\\">&&</span>\",\"导演\":\"导演：&&</div\",\"主演\":\"主演：&&</div\",\"简介\":\"简介：&&</li>\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"myui-content__list&&</ul>\",\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3#国产剧$13#港台剧$14\",\"分类url\":\"http://www.ysgc.cc/vodshow/{cateId}--------{catePg}---.html\", \"年份\":\"1990-2022\",
