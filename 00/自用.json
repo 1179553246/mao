@@ -83,6 +83,17 @@
  },
 
 {
+  "key": "csp_xb_luozhu",
+  "name": "🐷乐猪(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "http://www.lezhutv.com/list/{cateId}_{catePg}__time_____.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
+
+{
 	"key": "csp_xb_ftcgj",
 	"name": "枫糖影院(R)",
 	"type": 3,
