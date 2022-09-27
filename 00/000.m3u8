@@ -179,27 +179,17 @@
             "ext":"https://agit.ai/66666/mao/raw/branch/master/json/胖虎筛选.json"
         },
 
-{
-      "key": "csp_xBPQ_耐看",
-      "name": "耐看点播(XBPQ)",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "{
-\"免嗅\":\"1\",
-\"播放标题\":\"span>&&<\",
-\"导演\": \"导演：&&</div\",
-\"主演\": \"主演：&&</div\",
-\"简介\": \"module-info-introduction-content&&</div>\",
-\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
-\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",
-\"线路标题\": \"<span>&&</span>\",
-\"播放数组\":\"class=\\\"module-play-list&&</div>\",
-\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",
-\"分类url\":\"https://www.nkdyw.com/show/{cateId}--------{catePg}---.html\"}"
-    },
+ {
+            "key":"csp_xBPQ_爱酷影院",
+            "name":"️xBPQ | 爱酷影院",
+            "type":3,
+            "api":"csp_xBPQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0,
+            "ext":"https://agit.ai/66666/mao/raw/branch/master/json/爱酷.json"
+        },
+
  
 
 {"key":"csp_cBq_工厂","name":"影视工厂(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"副标题\":\"class=\\\"handle-btn-name\\\">&&</span>\",\"导演\":\"导演：&&</div\",\"主演\":\"主演：&&</div\",\"简介\":\"简介：&&</li>\",\"播放标题\":\">&&<\",\"播放数组\":\"class=\\\"myui-content__list&&</ul>\",\"分类\":\"电视剧$2#动漫$4#电影$1#综艺$3#国产剧$13#港台剧$14\",\"分类url\":\"http://www.ysgc.cc/vodshow/{cateId}--------{catePg}---.html\", \"年份\":\"1990-2022\",
