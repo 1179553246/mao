@@ -179,16 +179,16 @@
             "ext":"https://agit.ai/66666/mao/raw/branch/master/json/胖虎筛选.json"
         },
 
- {
-            "key":"csp_xBPQ_爱酷影院",
-            "name":"️xBPQ | 爱酷影院",
-            "type":3,
-            "api":"csp_xBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":"https://agit.ai/66666/mao/raw/branch/master/json/爱酷.json"
-        },
+{
+  "key": "csp_xb_aiku",
+  "name": "爱酷影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://www.zhanlangbu.com/index.php/vod/type/id/{cateId}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
 
  
 
@@ -256,26 +256,15 @@
 \"筛选\":\"1\"}"},
 
 {
-      "key": "csp_xBPQ_耐看",
-      "name": "耐看点播(CBPQ)",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "{
-\"免嗅\":\"1\",
-\"播放标题\":\"span>&&<\",
-\"导演\": \"导演：&&</div\",
-\"主演\": \"主演：&&</div\",
-\"简介\": \"module-info-introduction-content&&</div>\",
-\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
-\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",
-\"线路标题\": \"<span>&&</span>\",
-\"播放数组\":\"class=\\\"module-play-list&&</div>\",
-\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",
-\"分类url\":\"https://www.nkdyw.com/show/{cateId}--------{catePg}---.html\"}"
-    },
+  "key": "csp_xb_aikan ",
+  "name": "爱看影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
 
 {"key":"csp_xpath_007","name":"零零柒(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/007.json"},
 {"key":"mtv_pc_小苹果源","name":"🔥小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1},
