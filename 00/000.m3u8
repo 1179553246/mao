@@ -190,6 +190,8 @@
   "ext": "https://cokemv.me/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
  },
 
+{"key": "csp_xBPQ_98影院","name": "98影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/98影视.json"},
+
 {
   "key": "csp_xb_lgyy",
   "name": "蓝光影院(R)",
