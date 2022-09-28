@@ -278,6 +278,61 @@
 \"筛选\":\"1\"}"},
 
 {
+  "key": "csp_xb_luozhu",
+  "name": "🐷乐猪(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "http://www.lezhutv.com/list/{cateId}_{catePg}__time_____.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
+
+{
+	"key": "csp_xb_shm",
+	"name": "神马影视(R)",
+	"type": 3,
+	"api": "csp_XBiu",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 0,
+	"ext": "https://www.smdyy.cc/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+},
+
+{
+  "key": "csp_xb_qsp",
+  "name": "氢视频(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "http://h1080p.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
+
+{
+  "key": "csp_xb_fg",
+  "name": "疯狗影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://m.fenggoudy3.com/list-select-id-{cateId}-type--area--year--star--state--order-addtime-p-{catePg}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
+
+{
+  "key": "csp_xb_huix",
+  "name": "回响(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "http://hxys.tv/vodshow/{cateId}-{area}-------{catePg}---{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
+
+{
   "key": "csp_xb_aikan ",
   "name": "爱看影视(R)",
   "type": 3,
