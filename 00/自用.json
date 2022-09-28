@@ -83,16 +83,8 @@
   "ext": "https://www.135kan.com/type/{cateId}-{catePg}/","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
  },
 
-{
-  "key": "csp_xb_98ys",
-  "name": "98影视(R)",
-  "type": 3,
-  "api": "csp_XBiu",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "ext": "http://www.98kpm.com/{cateId}/index{catePg}.html[http://www.98kpm.com/{cateId}/index.html]","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
- },
+{"key": "csp_xBPQ_98影院","name": "98影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/98影视.json"},
+
  
 {
   "key": "csp_xb_COKEMV",
