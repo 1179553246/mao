@@ -105,6 +105,39 @@
 },
 
 {
+  "key": "csp_xb_xmm",
+  "name": "小猫咪(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://xmaomi.net/vod_____show/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
+
+{
+  "key": "csp_xb_dbk",
+  "name": "独播库(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://www.duboku.tv/vodshow/{cateId}--------{catePg}---.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
+
+{
+  "key": "csp_xb_yueq",
+  "name": "云雀(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://v.yunque.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
+
+{
   "key": "csp_xb_huix",
   "name": "回响(R)",
   "type": 3,
