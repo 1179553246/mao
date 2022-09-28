@@ -105,25 +105,25 @@
 },
 
 {
-  "key": "csp_xb_xmm",
-  "name": "小猫咪(R)",
+  "key": "csp_xb_kmy",
+  "name": "酷蚂蚁(R)",
   "type": 3,
   "api": "csp_XBiu",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://xmaomi.net/vod_____show/{cateId}{catelog}-{area}-{by}------{catePg}---{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+  "ext": "http://www.kmy5.com/type/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
  },
 
 {
-  "key": "csp_xb_dbk",
-  "name": "独播库(R)",
+  "key": "csp_xb_kgmv",
+  "name": "酷狗mv(R)",
   "type": 3,
   "api": "csp_XBiu",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.duboku.tv/vodshow/{cateId}--------{catePg}---.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+  "ext": "https://www.kugou.com/mvweb/html/index_{cateId}_{catePg}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
  },
 
 {
