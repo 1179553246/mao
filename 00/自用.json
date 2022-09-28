@@ -218,18 +218,7 @@
 \"分类url\":\"https://www.mozhatu.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/class/{class}/letter/{letter}/year/{year}.html\"}"
     },
 
-{"key": "csp_xBPQ_素白白","name": "素白白(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/xBPQ/subaibai.json"},
-
-{
-  "key": "csp_xb_sbb",
-  "name": "素白白(R)",
-  "type": 3,
-  "api": "csp_XBiu",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "ext": "https://www.subaibaiys.com/{cateId}/page/{catePg}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
- },
+{"key": "csp_xBPQ_素白白","name": "素白白(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/素白白.json"},
 
 {
 "key": "csp_xBPQ_皮皮泡影视",
