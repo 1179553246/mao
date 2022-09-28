@@ -83,7 +83,7 @@
       "filterable": 0
     },
     {"key": "csp_AppTT" ,"name": "图图（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
- {"key":"csp_BBB","name":"哔哩合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/bili.json"},
+ {"key":"csp_BBB","name":"哔哩合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://神器每日推送.tk/json/bilibili.json"},
 {
      "key": "T4a",
      "name": "🍁T4聚合",
@@ -1042,7 +1042,7 @@
 
 //jar+壁纸
 
- "spider": "http://刚刚.live/jar2/gg0925.jar", "wallpaper":"https://tool.weetai.cn/api",
+"spider":"http://神器每日推送.tk/jar;md5;b36bd696d9b4ec61e31e86d52c2f2a3a","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
