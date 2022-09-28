@@ -94,14 +94,14 @@
  },
 
 {
-	"key": "csp_xb_lenxi",
-	"name": "冷曦(R)",
+	"key": "csp_xb_shm",
+	"name": "神马影视(R)",
 	"type": 3,
 	"api": "csp_XBiu",
 	"searchable": 1,
 	"quickSearch": 1,
 	"filterable": 0,
-	"ext": "https://www.lenxi.vip/s/{cateId}--{by}------{catePg}---{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+	"ext": "https://www.smdyy.cc/show/{cateId}-{area}--{class}-----{catePg}---{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
 },
 
 {"key":"csp_xBPQ_奇粹","name":"️奇粹影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"1\",\"嗅探词\":\".m3u8\",\"过滤词\":\"blssv.com\",\"分类url\":\"http://www.blssv.com/index.php/vod/show/id/{cateId}/page/{catePg}.html\",\"二次截取\":\"module-page&&id=\\\"page\\\"\",\"数组\":\"<a&&</a>\",\"分类\":\"电影$20#连续剧$21#动漫$22#海外$23#综艺$24\",\"播放数组\":\"module-play-list-base\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"span>&&<[替换:多多广告>>免嗅秒播]\"}","jar":""},
