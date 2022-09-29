@@ -276,6 +276,17 @@
  },
 
 {
+  "key": "csp_xb_juhe",
+  "name": "聚合影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://fositv.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
+
+{
   "key": "csp_xb_shdy",
   "name": "骚火电影(R)",
   "type": 3,
@@ -284,6 +295,17 @@
   "quickSearch": 1,
   "filterable": 0,
   "ext": "https://shdy2.com/list/{cateId}-{catePg}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
+
+{
+  "key": "csp_xb_23ys",
+  "name": "23影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://www.23wm.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
  },
 
    {
