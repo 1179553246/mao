@@ -626,14 +626,14 @@
  },
 
 {
-  "key": "csp_xb_llq",
-  "name": "007(R)",
+  "key": "csp_xb_23ys",
+  "name": "23影视(R)",
   "type": 3,
   "api": "csp_XBiu",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.007ts.me/detail/{vid}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+  "ext": "https://www.23wm.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
  },
 	    {
       "key": "csp_biubiu_饭团1",
