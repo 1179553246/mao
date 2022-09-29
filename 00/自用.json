@@ -139,7 +139,7 @@
 
 {
   "key": "csp_xb_aowu",
-  "name": "嗷呜影响视(R)",
+  "name": "嗷呜影视(R)",
   "type": 3,
   "api": "csp_XBiu",
   "searchable": 1,
@@ -160,17 +160,6 @@
  },
 
  
-{
-  "key": "csp_xb_COKEMV",
-  "name": "COKEMV(R)",
-  "type": 3,
-  "api": "csp_XBiu",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "ext": "https://cokemv.me/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
- },
-
 {
   "key": "csp_xb_luozhu",
   "name": "🐷乐猪(R)",
