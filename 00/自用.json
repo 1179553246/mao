@@ -601,7 +601,38 @@
         "少儿",
         "其他片"
       ]
-    }, {"key":"csp_XYQH_冷曦影视","name":"冷曦影视","type":3,"api":"csp_XYQH","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%86%B7%E6%9B%A6%E5%BD%B1%E8%A7%86.json","jar":"https://agit.ai/hongdeng98/XZY/raw/branch/main/jar/cp0921.jar;md5;77634a6d6a6134526fecfd986bdd5bce"},
+    }, {"key":"csp_XYQH_冷曦影视","name":"冷曦影视","type":3,"api":"csp_XYQH","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%86%B7%E6%9B%A6%E5%BD%B1%E8%A7%86.json","jar":"https://agit.ai/hongdeng98/XZY/raw/branch/main/jar/cp0921.jar;md5;77634a6d6a6134526fecfd986bdd5bce"}, {
+  "key": "csp_xb_jumi",
+  "name": "剧迷(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://gimytv.app/genre/{cateId}-{area}-{year}-{catePg}/by/{by}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
+
+{
+  "key": "csp_xb_shdy",
+  "name": "骚火电影(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://shdy2.com/list/{cateId}-{catePg}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
+
+{
+  "key": "csp_xb_wmkk",
+  "name": "完美看看(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://www.wanmeikk.me/category/{cateId}-{catePg}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
 	    {
       "key": "csp_biubiu_饭团1",
       "name": "🍙饭团高清",
