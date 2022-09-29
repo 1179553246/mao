@@ -61,14 +61,14 @@
 \"筛选\":\"1\"}"},   
 
 {
-  "key": "csp_xb_530ys",
-  "name": "530影视(R)",
+  "key": "csp_xb_heihei",
+  "name": "嘿嘿视频(R)",
   "type": 3,
   "api": "csp_XBiu",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.530kan.com/show/{cateId}-{area}-{feng}------{catePg}---{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+  "ext": "http://heiheiys.com/vodshow/{cateId}--------{catePg}---.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
  },
 
     {"key": "csp_xf_cs","name": "️FREEOK🍑(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
