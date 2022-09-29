@@ -138,25 +138,25 @@
 }"},
 
 {
-  "key": "csp_xb_jbb",
-  "name": "剧白白(R)",
+  "key": "csp_xb_aowu",
+  "name": "嗷呜影响视(R)",
   "type": 3,
   "api": "csp_XBiu",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.jubaibai.cc/vodshow/id/{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+  "ext": "http://www.cx99999.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
  },
 
 {
-  "key": "csp_xb_zgdy",
-  "name": "中国电影🇨🇳(R)",
+  "key": "csp_xb_heitao",
+  "name": "核桃影视(R)",
   "type": 3,
   "api": "csp_XBiu",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.chinady.ga/vodshow/{cateId}--{by}------{catePg}---{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+  "ext": "http://kkkk.plus/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
  },
 
  
