@@ -604,14 +604,14 @@
     }, {"key":"csp_XYQH_冷曦影视","name":"冷曦影视","type":3,"api":"csp_XYQH","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%86%B7%E6%9B%A6%E5%BD%B1%E8%A7%86.json","jar":"https://agit.ai/hongdeng98/XZY/raw/branch/main/jar/cp0921.jar;md5;77634a6d6a6134526fecfd986bdd5bce"},
 
 {
-  "key": "csp_xb_haokan",
-  "name": "好看影视(R)",
+  "key": "csp_xb_juhe",
+  "name": "聚合影视(R)",
   "type": 3,
   "api": "csp_XBiu",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://kh666.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+  "ext": "https://fositv.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
  },
 
 {
@@ -626,14 +626,14 @@
  },
 
 {
-  "key": "csp_xb_nmys",
-  "name": "农民影视(R)",
+  "key": "csp_xb_llq",
+  "name": "007(R)",
   "type": 3,
   "api": "csp_XBiu",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://v.xiangdao.me/index.php?m=vod-list-id-{cateId}-pg-{catePg}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+  "ext": "https://www.007ts.me/detail/{vid}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
  },
 	    {
       "key": "csp_biubiu_饭团1",
