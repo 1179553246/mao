@@ -172,14 +172,14 @@
  },
 
           {
-  "key": "csp_xb_nullys",
-  "name": "null影视(R)",
+  "key": "csp_xb_dym",
+  "name": "电影猫(R)",
   "type": 3,
   "api": "csp_XBiu",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0,
-  "ext": "https://www.nulltm.com/vodshow/{cateId}--------{catePg}---.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"},
+  "ext": "https://www.dym8.com/vod/type/{cateId}-{catePg}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"},
 
 {
 	"key": "csp_xb_shm",
