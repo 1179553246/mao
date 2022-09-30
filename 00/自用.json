@@ -419,8 +419,8 @@
  },
 
 {
-  "key": "csp_xb_CIT",
-  "name": "CIT(R)",
+  "key": "csp_xb_CITY",
+  "name": "CITY(R)",
   "type": 3,
   "api": "csp_XBiu",
   "searchable": 1,
@@ -655,6 +655,27 @@
   "quickSearch": 1,
   "filterable": 0,
   "ext": "https://www.23wm.net/vodshow/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
+ {
+  "key": "csp_xb_hk",
+  "name": "F7好看剧(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://www.f7hkj.cc/vodtype/{cateId}-----------.html",","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
+
+{
+  "key": "csp_xb_135k",
+  "name": "135看(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://www.135kan.com/type/{cateId}-{catePg}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
  },
 	    {
       "key": "csp_biubiu_饭团1",
