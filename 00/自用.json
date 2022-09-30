@@ -35,30 +35,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }, {"key": "csp_xBPQ_zizi ","name": "🍀子子影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/zizi.json"}, {
-"key": "csp_xBPQ_热播酷","name": "热播酷(XBPQ)",
-"type": 3,
-"api": "csp_xBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "{
-\"免嗅\":\"1\",
-\"嗅探词\": \"m3u8?#.m3u8#mp4#.flv#.mp3#.m4a\",
-\"副标题\":\"></i>&&</span>\",
-\"导演\": \"导演：&&</p\",
-\"主演\": \"主演：&&</p\",
-\"简介\": \"zkjj_a\\\"&&</span\",
-\"线路二次截取\": \"class=\\\"py-tabs&&/select>\",
-\"线路数组\":\"<option&&/option>\",
-\"线路标题\":\">&&<\",
-\"播放数组\":\"class=\\\"player&&</ul>\",
-\"播放标题\":\">&&</a\",
-\"分类\":\"电视剧$tv#动漫$dm#电影$dy#综艺$zy\",
-\"分类url\":\"https://www.reboku.cc/k/{cateId}-{catePg}.html\",
-
-\"年份\":\"1990-2022\",
-\"筛选\":\"1\"}"},   
+    }, {"key": "csp_xBPQ_zizi ","name": "🍀子子影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/zizi.json"},
 
 {
   "key": "csp_xb_heihei",
