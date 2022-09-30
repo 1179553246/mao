@@ -429,6 +429,16 @@
   "ext": "https://www.citydy.com/show/id-{cateId}/page/{catePg}.html",","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
  },
 
+{"key": "csp_xb_玄天",
+"name": "玄天影院(R)",
+"type": 3,
+"api": "csp_XBiu",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://m.7caa.com/list/{cateId}-{catePg}.html",","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
+
 {
   "key": "csp_xb_aikan ",
   "name": "爱看影视(R)",
