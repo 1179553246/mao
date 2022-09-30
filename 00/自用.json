@@ -426,7 +426,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
-  "ext": "https:   //   www.citydy.com/show/id-{cateId}/page/{catePg}.html",","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+  "ext": "https://www.citydy.com/show/id-{cateId}/page/{catePg}.html",","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
  },
 
 {
