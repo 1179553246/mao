@@ -78,6 +78,15 @@
     },{"url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
         "name": "苹果TV"
     },
+      {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json",
+            "name": "🥣看我吧"
+        },
+         {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json
+",
+            "name": "🏌道长备用"
+        },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
             "name": "🎁伍佰园"
@@ -496,11 +505,7 @@
             "url": "https://gitea.com/r1here/ceshi/raw/branch/main/gg.json",
             "name": "🎱gitea/ceshi"
         },
-        {
-            "url": "https://gitea.com/liucn/box/raw/branch/main/m.json
-",
-            "name": "🏌gitea/liu"
-        },
+      
         {
             "url": "https://gitea.com/happy520/xx/raw/branch/main/XC.json",
             "name": "🏓gitea/jappy"
@@ -530,8 +535,8 @@
             "name": "🍯六六大师"
         },
         {
-            "url": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0820.json",
-            "name": "🚝gitea/chuqiuyu"
+            "url": "https://gitea.com/mys202299/mys/raw/branch/main/mys.txt",
+            "name": "🚝Mys"
         },
         {
             "url": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/1.json",
@@ -549,10 +554,7 @@
             "url": "https://gitea.com/kapion/LS/raw/branch/main/1207.txt",
             "name": "🚆gitea/1207"
         },
-        {
-            "url": "https://gitea.com/nb/kls/raw/branch/master/a9.json",
-            "name": "🥣自用"
-        },
+     
         {
             "url": "https://gitea.com/TVBox-8888/mao/raw/branch/main/000.json",
             "name": "🥨自带学习"
