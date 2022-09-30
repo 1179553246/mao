@@ -417,15 +417,16 @@
   "filterable": 0,
   "ext": "https://dsxys.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
  },
- {
-  "key": "csp_xb_kyk",
-  "name": "看一看(R)",
+
+{
+  "key": "csp_xb_CIT",
+  "name": "CIT(R)",
   "type": 3,
   "api": "csp_XBiu",
   "searchable": 1,
   "quickSearch": 1,
-  "filterable": 0,
-  "ext": "http://www.kyikan.cc/vodtypehtml/{cateId}/index-{catePg}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+  "filterable": 1,
+  "ext": "https:   //   www.citydy.com/show/id-{cateId}/page/{catePg}.html",","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
  },
 
 {
