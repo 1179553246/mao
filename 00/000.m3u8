@@ -276,17 +276,6 @@
  },
 
 {
-  "key": "csp_xb_hk",
-  "name": "F7好看剧(R)",
-  "type": 3,
-  "api": "csp_XBiu",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext": "https://www.reboku.cc/k/{cateId}-{catePg}.html",","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
- },
-
-{
   "key": "csp_xb_juhe",
   "name": "聚合影视(R)",
   "type": 3,
