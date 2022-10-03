@@ -101,7 +101,18 @@
    "searchable": 2,
    "quickSearch": 0,
    "filterable": 1
-  }, {
+  }, 
+  {
+             "key": "kunyu77_js",
+             "name": "酷云七七(JS)",
+             "type": 3,
+             "api": "js_kunyu77",
+             "searchable": 1,
+             "quickSearch": 0,
+             "filterable": 0,
+             "ext": "https://agit.ai/hj620/tvbox/raw/branch/master/Meow/kuyun77.js"
+         },
+  {
             "key": "csp_Ninanying",
             "name": "SP | NianYing",
             "type": 3,
@@ -110,7 +121,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-  {"key":"csp_SP293","name":"293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1}, {"key":"csp_Bttoo","name":"BTToo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1}, 
+  {"key":"csp_SP293","name":"293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:98/8j;md5;A523814659F4BF773511C80E16B8F9A1"}, {"key":"csp_Bttoo","name":"BTToo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1}, 
   
 
  {"key": "csp_xf_cs","name": "️FREEOK🍑(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
@@ -188,7 +199,17 @@
 
 {"key":"csp_xBPQ_ voflixHD","name":"voflixHD(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/66666/mao/raw/branch/master/json/voflixHD.json"},
 
-{"key": "csp_xBPQ_素白白","name": "素白白(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/素白白.json"},
+{"key": "csp_xBPQ_素白白","name": "素白白(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/素白白.json"}, 
+{
+  "key": "csp_xb_jiumeng",
+  "name": "旧梦影视(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "http://150.158.130.238:4433/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
 
 {"key": "csp_xBPQ_大米星球","name": "️大米星球(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</small>\",\"播放标题\":\"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$20#电视剧$21#综艺$22#动漫$23\",\"分类url\":\"https://www.dmxq.me/vodshow/{cateId}--------{catePg}---.html\",
 \"年份\":\"1990-2022\",
@@ -1003,7 +1024,7 @@
      "User-Agent": "Mozilla/5.0"
     }
    }
-  },
+  }, {"name":"解析1","type":1,"url":"https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},{"name":"解析2","type":1,"url":"https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url="},
   {
    "name": "无名",
    "url": "http://43.139.29.179:5705/parse/api/无名.js?url=",
@@ -1170,7 +1191,7 @@
 
 //jar+壁纸
 
-"spider":"https://agit.ai/66666/mao/raw/branch/master/jar/0925.jar","wallpaper":"https://tool.weetai.cn/api",
+"spider":"https://agit.ai/66666/mao/raw/commit/67af4a9c9361062061554e5bb8880204b6001530/jar/0928.jar","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
