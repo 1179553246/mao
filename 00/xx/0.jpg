@@ -100,9 +100,17 @@
             "url": "https://share.nite07.com/api/v3/file/source/8322/Box.json?sign=n-y8zc-xcOgNHwmm9aOmtR-wySxxeBuM1i7KVlGdM-Q%3D%3A0",
             "name": "在线竹海"
         },
+          {
+            "url": "http://aidaohang.net/TVBox/tvbox2.txt",
+            "name": "⚽️看电视"
+        },
         {
             "url": "https://0a.fit/vip",
             "name": "⚾️vip0709"
+        },
+         {
+            "url": "https://agit.ai/yuegu09/XYB/raw/branch/master/TVB/pz.json",
+            "name": "🏸XYB-PZ"
         },
           {
             "url": "https://www.agit.ai/chenLD/jar/raw/branch/master/0928.json",
@@ -172,6 +180,10 @@
         {
             "url": "https://download.kstore.space/download/2863/01.txt",
             "name": "01🧵"
+        },
+        {
+            "url": "https://agit.ai/rolf/LEM/raw/branch/master/000.json",
+            "name": "🚑LEM专属"
         },
         {
             "url": "https://agit.ai/qi169/My9394/raw/branch/master/911.m3u8",
@@ -381,10 +393,7 @@
             "url": "http://miaotvs.cn/osc",
             "name": "🚓2柒0"
         },
-        {
-            "url": "https://gitea.com/boxlive/box/raw/branch/main/jk/showboxv822.json",
-            "name": "🚑showbox"
-        },
+       
         {
             "url": "https://box.okeybox.top/tv/shyi.json",
             "name": "🚒白嫖shyi"
@@ -461,6 +470,10 @@
             "url": "http://mtw.so/64J1GQ",
             "name": "🐠老刘备"
         },
+         {
+            "url": "https://agit.ai/hongdeng98/XZY/raw/branch/main/0919.txt",
+            "name": "🚝0919"
+        },
         {
             "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
             "name": "🐆云星家庭版"
@@ -520,8 +533,8 @@
        
      
         {
-            "url": "https://gitea.com/ranran/XYQbox/raw/branch/main/box.json",
-            "name": "🌽gitea/xyqbox"
+            "url": "http://zb.iptv6.top/永久免费接口/tvbox",
+            "name": "🌽佰欣园549039505"
         },
        
       
@@ -531,13 +544,10 @@
             "name": "🎱gitea/ceshi"
         },
       
+      
         {
-            "url": "https://gitea.com/ltxxjs/tinghao/raw/branch/main/20220729-1.json",
-            "name": "🏸gitea/挺好"
-        },
-        {
-            "url": "https://gitea.com/mys202299/mys/raw/branch/main/mys.txt",
-            "name": "🏒gitea/猫影视"
+            "url": "https://agit.ai/yuegu09/XYB/raw/branch/master/XYH/JK/qiaoji.json",
+            "name": "🏒qiaoji"
         },
         {
             "url": "https://gitea.com/cfsxy/Box/raw/branch/main/BoxJs/mys1.json",
@@ -555,10 +565,7 @@
             "url": "https://liu673cn.github.io/box/m.json",
             "name": "🍯六六大师"
         },
-        {
-            "url": "https://gitea.com/mys202299/mys/raw/branch/main/mys.txt",
-            "name": "🚝Mys"
-        },
+      
         {
             "url": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/1.json",
             "name": "🚈gitea/1chuqiuyu"
@@ -572,22 +579,15 @@
             "name": "🚟gitea/zzx1113"
         },
         {
-            "url": "https://gitea.com/kapion/LS/raw/branch/main/1207.txt",
-            "name": "🚆gitea/1207"
+            "url": "https://agit.ai/zzzlllmmm1/h/raw/branch/master/L2",
+            "name": "🚆hL2"
         },
      
-        {
-            "url": "https://gitea.com/TVBox-8888/mao/raw/branch/main/000.json",
-            "name": "🥨自带学习"
-        },
         {
             "url": "https://gitea.com/yanan/mao/raw/branch/main/XC.json",
             "name": "🥢多多XC"
         },
-        {
-            "url": "https://gitea.com/yanan/mao/raw/branch/main/jgfx822.json",
-            "name": "⚽️多多fx822"
-        },
+     
         {
             "url": "https://gitea.com/yanan/mao/raw/branch/main/t1.txt",
             "name": "🏀多多T1"
