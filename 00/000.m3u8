@@ -121,7 +121,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-  {"key":"293视频","name":"🥕293 视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/zzzlllmmm1/vvebo/raw/branch/main/spider/tk.jar"}, {"key":"csp_Bttoo","name":"BTToo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1}, 
+  {"key":"293视频","name":"🥕293 视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":""}, {"key":"csp_Bttoo","name":"BTToo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1}, 
   
 
  {"key": "csp_xf_cs","name": "️FREEOK🍑(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
@@ -1191,7 +1191,7 @@
 
 //jar+壁纸
 
-"spider": "https://framagit.org/ygfxz/000/-/raw/master/0928.jar","wallpaper":"https://tool.weetai.cn/api",
+"spider": "https://agit.ai/zzzlllmmm1/vvebo/raw/branch/main/spider/tk.jar","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
