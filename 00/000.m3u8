@@ -131,6 +131,8 @@
 
  {"key": "csp_xBPQ_zizi ","name": "🍀子子影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/zizi.json"},   {"key": "csp_xBPQ_极品影视","name": "极品影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/commit/7a2c9d10f6ac90df0264d07610eafb6d59b9c020/json/极品影视.json"},
 
+{"key":"csp_xBPQ_LIBVIO","name":"LIBVIO(XBPQ)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/cainisi/TVBox/raw/master/xBPQ/LIBVIO.json"},
+
 {
 "key": "csp_xBPQ_皮皮泡影视",
 "name": "皮皮泡影视(XBPQ)",
