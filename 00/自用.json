@@ -18,13 +18,13 @@
    "sites": [
  
  {
-       "key": "csp_Kunyu77",
+       "key": "77",
        "name": "酷云七七　",
        "type": 3,
        "api": "csp_Kunyu77",
        "searchable": 1,
        "quickSearch": 1,
-       "filterable": 1
+       "filterable": 1 ,"jar": "https://download.kstore.space/download/3376/77.jar;md5; FAEEBD2B655F4340D2AF251A4055C1FE"
      },
  
  {"key":"293视频","name":"🥕293 视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},{    
