@@ -1,7 +1,7 @@
 {
 // spider
 
- "spider": "http://刚刚.live/jar2/gg0925.jar", 
+ "spider": "https://agit.ai/66666/mao/raw/branch/master/jar/LS.jar", 
 
 // 直播
 "lives":
@@ -9,7 +9,7 @@
 
 "sites":
 [{"key":"Lezhu_spider","name":"🐷乐猪影视(SP)","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_Kunyu77","name":"⛈️酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"77","name":"⛈️酷云七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1 ,"jar": "https://download.kstore.space/download/3376/77.jar;md5; FAEEBD2B655F4340D2AF251A4055C1FE"},
 {    
       "key": "图图",
       "name": "图图(SP)",
