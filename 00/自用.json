@@ -113,6 +113,12 @@
 "name": "电影先生(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "https://agit.ai/66666/mao/raw/commit/a37806997a2baed1ee18643ce76410b465496536/json/电影先生.json"
 },
+
+{"key": "csp_xBPQ_hoho",
+"name": "HOHO视频(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
+"ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/xBPQ/吼吼TV.json"
+},
+
  {
      "key": "csp_xBPQ _牛马tv影视",
      "name": "牛马影视(XBPQ)",
