@@ -745,56 +745,16 @@
 {"key":"mtv_pc_官方资源","name":"🔥官方资源","type":3,"api":"csp_SP360"         ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_293视频" ,"name":"🔥293视频" ,"type":3,"api":"csp_SP293"         ,"searchable":1,"quickSearch":1,"filterable":1},
 
-{
- "key":"Gitcafe",
- "name":"🔖小纸条",
- "type":3,
- "api":"csp_Gitcafe",
- "searchable":1,
- "quickSearch":1,
- "filterable":1,
- "ext":"8f0b3f0dc1834f309f077ea5549e99a8"
- },
- {
- "key":"FindZY",
- "name":"🔍找资源",
- "type":3,
- "api":"csp_Zhaozy",
- "searchable":1,
- "quickSearch":1,
- "filterable":1,
- "ext":"8f0b3f0dc1834f309f077ea5549e99a8"
- },
- {
- "key":"AliPS",
- "name":"📀盘搜",
- "type":3,
- "api":"csp_AliPS",
- "searchable":1,
- "quickSearch":1,
- "filterable":1,
- "ext":"8f0b3f0dc1834f309f077ea5549e99a8"
- },
- {
- "key":"csp_Yiso",
- "name":"🎯易搜",
- "type":3,
- "api":"csp_Yiso",
- "searchable":1,
- "quickSearch":1,
- "filterable":0,
- "ext":"8f0b3f0dc1834f309f077ea5549e99a8"
- }, {"key":"Upyunso","name":"云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/alitoken.json"},
- {
- "key":"push_agent",
- "name":"📨推送",
- "type":3,
- "api":"csp_PushAgent",
- "searchable":0,
- "quickSearch":0,
- "filterable":0,
- "ext":"8f0b3f0dc1834f309f077ea5549e99a8"
- },
+ {"key":"csp_GitCafe","name":"小纸条|云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/json/alitoken.json"},
+		{"key":"Yisou","name":"易搜|云盘搜索","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/json/alitoken.json"},
+		{"key":"Alips","name":"喵搜|云盘搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/json/alitoken.json"},
+		{"key":"Zhaozy","name":"找资源|云盘搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/json/alitoken.json"},
+		{"key":"Upyunso","name":"云搜|云盘搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/json/alitoken.json"},
+
+{"key":"csp_Alist","name":"Alist|网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/json/alist.json"},
+
+{"key":"push_agent","name":"推送|爱优腾/云盘/磁力","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://刚刚.live/json/alitoken.json"}
+
  {
  "key":"csp_xpath_clss",
  "name":"🧲磁搜",
