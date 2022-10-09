@@ -93,7 +93,7 @@
      "quickSearch": 1,
      "filterable": 1
      },{"key":"t4public","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"七七","name":"🔥酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1 ,"jar": ""},  {
+{"key":"七七","name":"🔥酷云七七","type":3,"api":"csp_Kunyu77"       ,"searchable":1,"quickSearch":1,"filterable":1 ,"jar": "https://agit.ai/66666/mao/raw/branch/master/jar/%e4%bf%ae%e5%a4%8d%e4%b8%83%e4%b8%83%e6%90%9c%e7%b4%a2.jar"},  {
    "key": "dr_酷云77",
    "name": "酷云77(道长)",
    "type": 1,
