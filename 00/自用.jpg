@@ -24,7 +24,7 @@
        "api": "csp_Kunyu77",
        "searchable": 1,
        "quickSearch": 1,
-       "filterable": 1 ,"jar": "https://download.kstore.space/download/3376/77.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"
+       "filterable": 1"
      },
  
  {"key":"293视频","name":"🥕293 视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},{    
@@ -113,6 +113,12 @@
 "name": "电影先生(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "https://agit.ai/66666/mao/raw/commit/a37806997a2baed1ee18643ce76410b465496536/json/电影先生.json"
 },
+
+{"key": "csp_xBPQ_hoho",
+"name": "HOHO视频(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
+"ext": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/xBPQ/吼吼TV.json"
+},
+
  {
      "key": "csp_xBPQ _牛马tv影视",
      "name": "牛马影视(XBPQ)",
