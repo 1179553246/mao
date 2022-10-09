@@ -116,7 +116,7 @@
 
 {"key":"mtv_pc_完美看看","name":"👹┃完美看看","type": 4,"api": "http://home.jundie.top:666/psp/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key": "RelaxSP","name": "轻松视频┃Sp","api": "csp_RelaxSP","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,ext":"68747470733A2F2F792E7173617070323233332E6D65","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/%e8%bd%bb%e6%9d%be.jar"},
+{"key":"csp_biu_wk","name":"悟空影院(R)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/XBiubiu/%e6%82%9f%e7%a9%ba%e5%bd%b1%e8%a7%86.json"},
 
  {"key": "csp_xf_cs","name": "️FREEOK🍑(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
 "ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\": \"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\": \"<span>&&</span>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#剧集$2#综艺$4#动漫$3#今日更新$38\",\"分类url\":\"https://www.freeok.vip/vodshow/{cateId}--------{catePg}---/\",
@@ -502,6 +502,18 @@
   "filterable": 0,
   "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
  },
+
+{
+	        "key": "csp_xml_搬运工",
+	        "name": "🐝搬运工资源",
+	        "type": 1,
+	        "api": "https://cj.banyung.xyz/",
+	        "playUrl": "",
+	        "searchable": 1,
+	        "quickSearch": 1,
+	        "filterable": 0,
+	        "categories": ["综艺", "动漫", "纪录", "动作片", "喜剧片", "爱情片", "科幻片", "剧情片", "悬疑片", "惊悚片", "恐怖片", "犯罪片", "冒险片", "奇幻片", "灾难片", "战争片", "动画片", "歌舞片", "历史片", "传记片", "其他片", "国产剧", "港台剧", "日韩剧", "欧美剧", "海外剧", "其他剧"]
+       }, 
 
 {"key":"csp_xpath_007","name":"零零柒(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/007.json"},
 {"key":"mtv_pc_小苹果源","name":"🔥小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1},
