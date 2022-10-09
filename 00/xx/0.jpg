@@ -37,8 +37,8 @@
             "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
             "name": "学习之路"
         }, {
-            "url": "http://www.dmtv.ml/mao/single.json",
-            "name": "🏐927"
+            "url": "http://www.dmtv.ml/mao/mao.php?type=single",
+            "name": "🏐106"
         },
         {
             "url": "https://download.kstore.space/download/2863/01.txt",
@@ -55,6 +55,14 @@
         {
             "url": "http://zb.iptv6.top/TVB随机密码8848加群获取最新密码/电视猫16.json",
             "name": "🥣电视猫"
+        },
+        {
+            "url": "https://agit.ai/lcx/11/raw/branch/master/13",
+            "name": "⚽️JS01"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/cfg.json",
+            "name": "🏀JS02"
         },
         {
             "url": "https://0a.fit/2222",
@@ -76,8 +84,8 @@
     },
           
         {
-            "url": "https://limb.neocities.org/tv/xpg.json",
-            "name": "苹果"
+            "url": "https://notabug.org/gw/m/raw/master/103.json",
+            "name": "GW"
         },
            {
             "url": "https://framagit.org/ygfxz/000/-/raw/master/AA.json",
@@ -100,6 +108,10 @@
             "url": "https://share.nite07.com/api/v3/file/source/8322/Box.json?sign=n-y8zc-xcOgNHwmm9aOmtR-wySxxeBuM1i7KVlGdM-Q%3D%3A0",
             "name": "在线竹海"
         },
+         {
+            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
+            "name": "🧨风起"
+        },
           {
             "url": "http://aidaohang.net/TVBox/tvbox2.txt",
             "name": "⚽️看电视"
@@ -111,6 +123,10 @@
             "url": "https://agit.ai/66666/mao/raw/branch/master/00/自用.json",
             "name": "🚟自用测试"
         },
+        {
+         "url":"http://maoyingshi.cc/tvbox/星河软件园/1.m3u8",
+        "name":"🌟星河软件"
+       },
         {
             "url": "https://agit.ai/zzzlllmmm1/vvebo/raw/branch/main/vvebo.json",
             "name": "🏀vvebo"
@@ -127,6 +143,10 @@
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
             "name": "🎁伍佰园"
+        },
+         {
+            "url": "https://0dlj.cn/%E7%AE%80%E5%8D%95jg",
+            "name": "🥣简单影视"
         },
          {
             "url": "https://raw.liucn.cc/box/m.json",
@@ -309,8 +329,12 @@
             "name": "🍳莱妮丝"
         },
         {
-            "url": "https://www.agit.ai/chenLD/jar/raw/branch/master/10.json",
-            "name": "🏐七七(js)"
+            "url": "https://gitee.com/cainisi/TVBox/raw/master/TVBox.json",
+            "name": "🐎123"
+        },
+        {
+            "url": "http://byyds.top/w.txt",
+            "name": "🏐七七(ss)"
         },
         {
             "url": "https://liu673cn.github.io/box/m.json",
@@ -458,8 +482,8 @@
             "name": "🦖家庭备用"
         },
         {
-            "url": "http://xn--4bra.live/gg0825.json",
-            "name": "🐋刚刚825"
+            "url": "https://gitee.com/Augustyu/tvbox/raw/master/jian.json",
+            "name": "🐋剑客"
         },
         {
             "url": "http://刚刚.live/猫.json",
@@ -594,28 +618,26 @@
      
        
         {
-            "url": "https://gitea.com/yanan/mao/raw/branch/main/wq666.json",
-            "name": "🏈多多wq666"
-        }
-    ],
-    "vip": [
+            "url": "http://api.xiaoz.fit/1.json",
+            "name": "🏈小Z"
+        },
          {
             "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
-            "name": "🐎18+"
+            "name": "🐎vip0"
         },
         {
             "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
-            "name": "🐉18+"
+            "name": "🐉vip1"
         },
        
         {
             "url": "http://mtw.so/5PGEEm",
-            "name": "🐘18+"
+            "name": "🐘vip2"
         },
        
         {
-            "url": "https://gitea.com/wlyzh88/FL/raw/branch/master/FL.json",
-            "name": "🦒18+"
+            "url": "http://api.xiaoz.fit/18.json",
+            "name": "🦒vip3"
         }
     ]
 }
