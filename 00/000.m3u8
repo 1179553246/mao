@@ -102,13 +102,6 @@
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"
     },
     {
-      "key": "drpy_js_库马伊",
-      "name": "库马伊[DRPY]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/库马伊.js"
-    },
-    {
       "key": "drpy_js_酷云77",
       "name": "酷云77[DRPY]",
       "type": 3,
@@ -523,18 +516,6 @@
   "ext": "https://ikan6.vip/vodshow/{cateId}--------{catePg}---","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
  },
 
-{
-	        "key": "csp_xml_搬运工",
-	        "name": "🐝搬运工资源",
-	        "type": 1,
-	        "api": "https://cj.banyung.xyz/",
-	        "playUrl": "",
-	        "searchable": 1,
-	        "quickSearch": 1,
-	        "filterable": 0,
-	        "categories": ["综艺", "动漫", "纪录", "动作片", "喜剧片", "爱情片", "科幻片", "剧情片", "悬疑片", "惊悚片", "恐怖片", "犯罪片", "冒险片", "奇幻片", "灾难片", "战争片", "动画片", "歌舞片", "历史片", "传记片", "其他片", "国产剧", "港台剧", "日韩剧", "欧美剧", "海外剧", "其他剧"]
-       }, 
-
 {"key":"csp_xpath_007","name":"零零柒(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/alanchaotang/TangTV/raw/master/XB/007.json"},
 {"key":"mtv_pc_小苹果源","name":"🔥小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_利奥影视","name":"🔥利奥影视","type":3,"api":"csp_Lib"           ,"searchable":1,"quickSearch":1,"filterable":0},
@@ -832,28 +813,6 @@
  },
 
 {"key":"push_agent","name":"😺推送(爱优腾/云盘/磁力)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
-
-{
-      "key": "drpy_js_360影视",
-      "name": "360影视[DRPY]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"
-    },
-    {
-      "key": "drpy_js_555影视",
-      "name": "555影视[DRPY]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/555影视.js"
-    },
-    {
-      "key": "drpy_js_1080P",
-      "name": "1080P[DRPY]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/1080P.js"
-    },
 
 {"key":"mtv_xp_酷奇视频","name":"💦酷奇视频","type":3,"api":"csp_XPath"         ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://mtv.weetai.cn/xpath/酷奇视频.json"},
 {"key":"mtv_xp_虎牙直播","name":"💦虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mtv.weetai.cn/xpath/虎牙直播.json"},
