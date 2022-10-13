@@ -127,7 +127,16 @@
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/牛马TV.js"
     },
 
-{"key":"csp_xBPQ_巨人影院","name": "巨人影院(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "免嗅:1,播放数组:<ul class=\"hl-plays-list&&/ul>,分类:电影$1#电视剧$2#综艺$4#动漫$3#动画片$6,分类url:https://www.jurenm.com/vodtype/{cateId}/page/{catePg}.html"},
+{
+        "key": "csp_xb_7xiady",
+        "name": "秋霞影视(xBPQ)",
+        "type": 3,
+        "api": "csp_xBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "分类url:https://www.7xiady.cc/show/{cateId}--------{catePg}---,免嗅:1","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ0927%e9%80%82%e9%85%8d%e6%97%a0%e5%9b%be%e6%90%9c%e7%b4%a2.jar"
+        },
 
     {
       "key": "drpy_js_百忙无果",
