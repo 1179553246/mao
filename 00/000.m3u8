@@ -134,11 +134,11 @@
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/555影视.js","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/js.jar"
     },
     {
-      "key": "drpy_js_1080P",
-      "name": "1080P[DRPY]",
+      "key": "drpy_js_看视界",
+      "name": "看视界[DRPY]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/1080P.js","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/js.jar"
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/看视界.js","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/js.jar"
     },
   {"key":"293视频","name":"🥕293 视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":""}, {"key":"csp_Bttoo","name":"BTToo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1}, 
   
