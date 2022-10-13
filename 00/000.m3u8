@@ -126,13 +126,16 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/牛马TV.js"
     },
-    {
-      "key": "drpy_js_vip影院",
-      "name": "vip影院[DRPY]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/vip影院.js","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/js.jar"
-    },
+   {
+        "key": "csp_xb_7xiady",
+        "name": "❤️秋霞影视(xBPQ)",
+        "type": 3,
+        "api": "csp_xBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 0,
+        "ext": "https://www.7xiady.cc/show/{cateId}--------{catePg}---"
+        },
     {
       "key": "drpy_js_百忙无果",
       "name": "百忙无果[DRPY]",
