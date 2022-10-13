@@ -127,18 +127,18 @@
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/牛马TV.js"
     },
     {
-      "key": "drpy_js_555影视",
-      "name": "555影视[DRPY]",
+      "key": "drpy_js_vip影院",
+      "name": "vip影院[DRPY]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/555影视.js","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/js.jar"
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/vip影院.js","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/js.jar"
     },
     {
-      "key": "drpy_js_看视界",
-      "name": "看视界[DRPY]",
+      "key": "drpy_js_百忙无果",
+      "name": "百忙无果[DRPY]",
       "type": 3,
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/看视界.js","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/js.jar"
+      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js", "jar":"https://agit.ai/66666/mao/raw/branch/master/jar/js.jar"
     },
   {"key":"293视频","name":"🥕293 视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":""}, {"key":"csp_Bttoo","name":"BTToo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1}, 
   
