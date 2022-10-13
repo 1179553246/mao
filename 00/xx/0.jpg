@@ -57,12 +57,16 @@
             "name": "🥣电视猫"
         },
         {
-            "url": "https://agit.ai/lcx/11/raw/branch/master/13",
-            "name": "⚽️JS01"
+            "url": "clan://localhost/JS/js.json",
+            "name": "⚽️JS本地"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/cfg.json",
             "name": "🏀JS02"
+        },
+          {
+            "url": "https://notabug.org/hogo18/t1/raw/main/cfg.json",
+            "name": "🐼️JS03"
         },
         {
             "url": "https://0a.fit/2222",
