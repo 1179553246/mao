@@ -798,15 +798,15 @@
 {"key":"mtv_pc_官方资源","name":"🔥官方资源","type":3,"api":"csp_SP360"         ,"searchable":1,"quickSearch":1,"filterable":1},
 
 {
-      "key": "Gitcafe",
-      "name": "📄小纸条",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1,"jar": "https://agit.ai/66666/mao/raw/branch/master/jar/%e7%a5%9e%e5%99%a8.jar"
-    },
+ "key":"Gitcafe",
+ "name":"🔖小纸条",
+ "type":3,
+ "api":"csp_Gitcafe",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext":"http://刚刚.live/json/alitoken.json"
+ },
 
  {
  "key":"FindZY",
