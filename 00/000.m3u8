@@ -805,7 +805,7 @@
  "searchable":1,
  "quickSearch":1,
  "filterable":1,
- "jar": "./jar/top97.jar"
+ "jar": "https://agit.ai/66666/mao/raw/branch/master/jar/csp.jar"
  },
  {
  "key":"FindZY",
