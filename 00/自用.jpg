@@ -19,7 +19,7 @@
  
 
 {"key":"七七","name":"🔥七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://download.kstore.space/download/3376/77.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"},
- 
+ {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1665492052.json"},
  {"key":"293视频","name":"🥕293 视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},{    
        "key": "图图",
        "name": "图图",
