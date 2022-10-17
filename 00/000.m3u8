@@ -806,7 +806,7 @@
  "searchable":1,
  "quickSearch":1,
  "filterable":1,
- "ext":"http://刚刚.live/json/alitoken.json"
+ "ext":""
  },
  {
  "key":"FindZY",
