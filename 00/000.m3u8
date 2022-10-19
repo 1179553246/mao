@@ -130,15 +130,15 @@
 {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1665492052.json"},
 
 {
-      "key": "csp_xBPQ_星晨影视",
-      "name": "xbpq|星晨影视",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "{\"起始页\": \"2\",\"线路数组\": \"more text-muted pull-right&&</div>\",\"线路标题\": \"title\\\">&&<\",\"播放数组\":\"stui-content__playlist playlink clearfix&&/ul>\",\"播放链接\": \"href='&&'\",\"分类\":\"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"分类url\":\"https://agit.ai/66666/mao/raw/branch/master/jar/xBPQ_1017_%e6%96%b0%e5%a2%9e%e8%87%aa%e5%8a%a8%e8%8e%b7%e5%8f%96%e7%9c%9f%e5%ae%9e%e5%88%86%e7%b1%bb%28%e9%9d%9e%e5%9b%ba%e5%ae%9a%e6%a8%a1%e6%9d%bf%29%ef%bc%8c%e6%8f%90%e5%8d%87%e5%8d%95%e7%bd%91%e5%9d%80%e6%88%90%e5%8a%9f%e7%8e%87%ef%bc%8c%e6%96%b0%e5%a2%9e%e5%8d%95%e4%b8%aa%e5%85%b3%e9%94%ae%e8%af%8d%e8%8e%b7%e5%8f%96%e5%88%86%e7%b1%bb%28%e9%83%a8%e4%bb%bd%e6%9c%89%e6%95%88%29%ef%bc%8c%e4%bf%ae%e5%a4%8d%e7%ba%bf%e8%b7%afbug%e4%bc%98%e5%8c%96%e7%bb%86%e8%8a%82.jar"
-    },
+  "key": "csp_xb_xc",
+  "name": "🌟星辰(R)",
+  "type": 3,
+  "api": "csp_XBiu",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "http://www.40yb.com/{cateId}/index{catePg}.html\","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
+ },
 
 {
         "key": "csp_xb_7xiady",
