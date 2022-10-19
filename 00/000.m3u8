@@ -130,17 +130,6 @@
 {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1665492052.json"},
 
 {
-  "key": "csp_xb_xc",
-  "name": "🌟星辰(R)",
-  "type": 3,
-  "api": "csp_XBiu",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0,
-  "ext": "http://www.40yb.com/{cateId}/index{catePg}.html","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/XBiu.jar"
- },
-
-{
         "key": "csp_xb_7xiady",
         "name": "秋霞影视(xBPQ)",
         "type": 3,
