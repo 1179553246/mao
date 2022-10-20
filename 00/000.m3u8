@@ -142,8 +142,8 @@
 \"分类url\":\"http://www.lu1.cc/c/tv/sjtv/{cteId}\",
 \"图片\":\"http://\",
 \"播放图片\":\"http://\",
-\"不分线路\":\"1\"
-}"},  
+\"线路合并\":\"1\"
+}","jar":"https://agit.ai/66666/mao/raw/branch/master/jar/19.jar"},  
 
 {
         "key": "csp_xb_7xiady",
