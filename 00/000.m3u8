@@ -621,7 +621,7 @@
 {"key":"mtv_pc_小苹果源","name":"🔥小苹果源","type":3,"api":"csp_LiteApple"     ,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mtv_pc_利奥影视","name":"🔥利奥影视","type":3,"api":"csp_Lib"           ,"searchable":1,"quickSearch":1,"filterable":0},
 {"key":"mtv_pc_焦炭影视","name":"🔥焦炭影视","type":3,"api":"csp_Cokemv"        ,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"mtv_pc_厂长影视","name":"🔥厂长资源","type":3,"api":"csp_Czsapp"        ,"searchable":1,"quickSearch":1,"filterable":0,"jar":"https://framagit.org/ygfxz/000/-/raw/master/ZL.jar"}, {
+{"key":"mtv_pc_厂长影视","name":"🔥厂长资源","type":3,"api":"csp_Czsapp"        ,"searchable":1,"quickSearch":1,"filterable":0,"jar":""}, {
 		"key": "追剧喵",
 		"name": "🐞追剧喵",
 		"type": 3,
@@ -1314,7 +1314,7 @@
 
 //jar+壁纸
 
-"spider": "https://agit.ai/66666/mao/raw/branch/master/jar/XZT.jar","wallpaper":"https://tool.weetai.cn/api",
+"spider": "https://agit.ai/66666/mao/raw/branch/master/jar/XZT.jar;md5; 7D2F56DAE644555BF5AD6C8BDE537BDF","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
