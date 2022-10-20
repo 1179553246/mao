@@ -119,6 +119,13 @@
             "quickSearch": 1,
             "filterable": 1
         },
+        {
+      "key": "drpy_js_优酷",
+      "name": "🔭优酷🔭",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js",
+      "ext": "https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/优酷.js"
+    },
          {
       "key": "drpy_js_牛马TV",
       "name": "牛马TV[DRPY]",
@@ -1013,6 +1020,7 @@
     }
    }
   },
+  {"name":"GGTV搜集","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
   {
    "name": "江湖",
    "url": "http://43.139.29.179:5705/parse/api/江湖.js?url=",
@@ -1281,7 +1289,7 @@
 
 //jar+壁纸
 
-"spider": "https://agit.ai/66666/mao/raw/branch/master/jar/0925.jar","wallpaper":"https://tool.weetai.cn/api",
+"spider": "https://download.kstore.space/download/2863/ggtv.jar;md5;fc546c735827e5b3c2dfe91bfbe64350","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
