@@ -868,7 +868,7 @@
  "searchable":1,
  "quickSearch":1,
  "filterable":1,
- "ext":"http://刚刚.live/json/alitoken.json"
+ "ext":""
  },
  {
  "key":"AliPS",
@@ -878,7 +878,7 @@
  "searchable":1,
  "quickSearch":1,
  "filterable":1,
- "ext":"http://刚刚.live/json/alitoken.json"
+ "ext":""
  },
  {
  "key":"csp_Yiso",
@@ -888,8 +888,8 @@
  "searchable":1,
  "quickSearch":1,
  "filterable":0,
- "ext":"http://刚刚.live/json/alitoken.json"
- }, {"key":"Upyunso","name":"云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://刚刚.live/alitoken.json"},
+ "ext":""
+ }, {"key":"Upyunso","name":"云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":""},
  {
  "key":"push_agent",
  "name":"📨推送",
@@ -898,7 +898,7 @@
  "searchable":0,
  "quickSearch":0,
  "filterable":0,
- "ext":"http://刚刚.live/json/alitoken.json"
+ "ext":""
  },
 
  {
@@ -912,7 +912,7 @@
  "ext":"https://agit.ai/qi169/My9394/raw/branch/master/json/%e7%a3%81%e5%8a%9b%e6%90%9c%e7%b4%a2.json"
  },
 
-{"key":"push_agent","name":"😺推送(爱优腾/云盘/磁力)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
+{"key":"push_agent","name":"😺推送(爱优腾/云盘/磁力)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":""},
 
 {"key":"mtv_xp_酷奇视频","name":"💦酷奇视频","type":3,"api":"csp_XPath"         ,"searchable":0,"quickSearch":0,"filterable":0,"ext":"http://mtv.weetai.cn/xpath/酷奇视频.json"},
 {"key":"mtv_xp_虎牙直播","name":"💦虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://mtv.weetai.cn/xpath/虎牙直播.json"},
