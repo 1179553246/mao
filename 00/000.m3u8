@@ -104,12 +104,24 @@
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"
     },
     {
-      "key": "drpy_js_酷云77",
-      "name": "酷云77[DRPY]",
-      "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-      "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/酷云77.js"
-    },
+            "key" : "drpy_js_奇珍异兽",
+            "name" : "奇珍异兽[DRPY]",
+            "type" : 3,
+            "api" : "https://notabug.org/zqk219/yingshicang/raw/master/JS/lib/drpy.ym.js",
+            "ext" : "https://notabug.org/zqk219/yingshicang/raw/master/JS/js/奇珍异兽.js"
+        },{
+            "key" : "drpy_js_酷云77",
+            "name" : "酷云77[DRPY]",
+            "type" : 3,
+            "api" : "https://notabug.org/zqk219/yingshicang/raw/master/JS/lib/drpy.ym.js",
+            "ext" : "https://notabug.org/zqk219/yingshicang/raw/master/JS/js/酷云77.js"
+        },{
+            "key" : "drpy_js_菜狗",
+            "name" : "菜狗[DRPY]",
+            "type" : 3,
+            "api" : "https://notabug.org/zqk219/yingshicang/raw/master/JS/lib/drpy.ym.js",
+            "ext" : "https://notabug.org/zqk219/yingshicang/raw/master/JS/js/菜狗.js"
+        },
   {
             "key": "csp_Ninanying",
             "name": "SP | NianYing",
