@@ -47,7 +47,7 @@
  \"筛选\":\"1\"
  }",
  "jar":"https://agit.ai/66666/mao/raw/branch/master/jar/106xbpq.jar"},
- {"key":"293视频","name":"🥕293 视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},{    
+ {"key":"293视频","name":"🥕293 视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/66666/mao/raw/branch/master/jar/%e9%95%bf%e8%80%81.jar"},{    
        "key": "图图",
        "name": "图图",
        "type": 3,
