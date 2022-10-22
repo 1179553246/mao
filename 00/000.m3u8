@@ -122,7 +122,7 @@
             "api" : "https://notabug.org/zqk219/yingshicang/raw/master/JS/lib/drpy.ym.js",
             "ext" : "https://notabug.org/zqk219/yingshicang/raw/master/JS/js/菜狗.js"
         },
- {"key":"csp_Ysgc","name":"🏭工厂┃SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
+ {"key":"csp_Ysgc","name":"🏭工厂┃SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/66666/mao/raw/branch/master/jar/%e7%a5%9e%e5%99%a8.jar"},
          {
       "key": "drpy_js_腾云驾雾",
       "name": "🔭腾云驾雾🔭",
