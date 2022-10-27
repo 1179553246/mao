@@ -54,8 +54,9 @@
        "api": "csp_AppTT",
        "searchable": 1,
        "quickSearch": 1,
-       "filterable": 1,"jar":"https://agit.ai/66666/mao/raw/branch/master/jar/TT.jar"
+       "filterable": 1,"jar":"https://framagit.org/ygfxz/000/-/raw/master/TT.jar"
      }, 
+     {"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"mtv_pc_完美看看","name":"👹┃完美看看","type": 4,"api": "http://home.jundie.top:666/psp/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 1},
      {"key": "csp_xBPQ_zizi ","name": "🍀子子影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/zizi.json"},
  
