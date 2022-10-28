@@ -82,7 +82,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {"key": "csp_AppTT" ,"name": "图图（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://framagit.org/ygfxz/000/-/raw/master/TT.jar"},
+    {"key": "csp_AppTT" ,"name": "图图（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
  {"key":"csp_BBB","name":"哔哩合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://神器每日推送.tk/json/bilibili.json"},
 {
      "key": "T4a",
