@@ -166,6 +166,37 @@
 },
 
 {
+ "key":"Gitcafe",
+ "name":"🔖小纸条",
+ "type":3,
+ "api":"csp_Gitcafe",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1
+ },
+
+ {
+ "key":"FindZY",
+ "name":"🔍找资源",
+ "type":3,
+ "api":"csp_Zhaozy",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext":""
+ },
+ {
+ "key":"AliPS",
+ "name":"📀盘搜",
+ "type":3,
+ "api":"csp_AliPS",
+ "searchable":1,
+ "quickSearch":1,
+ "filterable":1,
+ "ext":""
+ },
+
+{
         "key": "csp_xb_7xiady",
         "name": "秋霞影视(xBPQ)",
         "type": 3,
