@@ -44,6 +44,9 @@
             "url": "http://101.34.67.237/config/3",
             "name": "💎道长T4线路"
         },
+        {"url": "http://tvbox.lengniuge.eu.org/ts",
+        "name": "📱ts"
+    },
     {"url": "https://agit.ai/66666/mao/raw/branch/master/00/ziyong.json",
         "name": "VIP0709"
     },
