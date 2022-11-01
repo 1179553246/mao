@@ -16,7 +16,15 @@
      }
    ],
    "sites": [
- 
+ {    
+       "key": "图图",
+       "name": "图图",
+       "type": 3,
+       "api": "csp_AppTT",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1
+     }, 
 
 {"key":"七七","name":"🔥七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://download.kstore.space/download/3376/77.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"},
  {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1665492052.json"},
@@ -47,15 +55,8 @@
  \"筛选\":\"1\"
  }",
  "jar":""},
- {"key":"293视频","name":"🥕293 视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":""},{    
-       "key": "图图",
-       "name": "图图",
-       "type": 3,
-       "api": "csp_AppTT",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,"jar":""
-     }, 
+ {"key":"csp_xBPQ_韩剧堆","name":"韩剧堆","type":3,"api": "csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hanjudui.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html"},
+ {"key":"293视频","name":"🥕293 视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
      {"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
      {"key":"mtv_pc_完美看看","name":"👹┃完美看看","type": 4,"api": "http://home.jundie.top:666/psp/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 1},
      {"key": "csp_xBPQ_zizi ","name": "🍀子子影视(XBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/66666/mao/raw/branch/master/json/zizi.json"},
