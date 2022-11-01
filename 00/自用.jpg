@@ -927,7 +927,7 @@
        "api": "csp_ZJMiao",
        "searchable": 1,
        "quickSearch": 1,
-       "filterable": 1
+       "filterable": 1,"jar":"https://notabug.org/ygfxz/6/raw/main/xzy1029.jar"
      },
      {
        "key": "csp_Tkys",
