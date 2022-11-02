@@ -96,27 +96,6 @@
 
 {"key":"七七","name":"🔥七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://download.kstore.space/download/3376/77.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739"},
 
-{
-    "key": "Zjdr",
-    "name": "追剧",
-    "type": "3",
-    "api": "csp_Dora",
-    "searchable": "1",
-    "quickSearch": "1",
-    "filterable": "1",
-    "ext": "778e8966ec0e9c0ae0b4682ad3550f40","jar": "http://api.lengniuge.eu.org/cs.txt;md5;d803c0928643a50cb624b92c71817254"
-  },
-  {
-    "key": "Pang",
-    "name": "胖虎",
-    "type": "3",
-    "api": "csp_Dora",
-    "searchable": "1",
-    "quickSearch": "1",
-    "filterable": "1",
-    "ext": "c41fdb671b20925c76fa9b6ff8bad027","jar": "http://api.lengniuge.eu.org/cs.txt;md5;d803c0928643a50cb624b92c71817254"
-  },
-
  {
       "key": "drpy_js_360影视",
       "name": "360影视[DRPY]",
@@ -175,6 +154,17 @@
 {"key":"csp_Nkdy","name":"⏺南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/66666/mao/raw/commit/6330c452f5fb046a2715f11cc353f19e3871d268/jar/ZJ.jar"},
 {"key":"Zjdr","name":"🌐追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/66666/mao/raw/commit/6330c452f5fb046a2715f11cc353f19e3871d268/jar/ZJ.jar"},
 {"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/66666/mao/raw/commit/6330c452f5fb046a2715f11cc353f19e3871d268/jar/ZJ.jar"},
+
+  {
+    "key": "Pang",
+    "name": "胖虎",
+    "type": "3",
+    "api": "csp_Dora",
+    "searchable": "1",
+    "quickSearch": "1",
+    "filterable": "1",
+    "jar": "https://agit.ai/66666/mao/raw/commit/6330c452f5fb046a2715f11cc353f19e3871d268/jar/ZJ.jar"
+  },
 
 {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1665492052.json"},
 
