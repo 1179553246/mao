@@ -172,9 +172,9 @@
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/牛马TV.js"
     },
 
-{"key":"csp_Nkdy","name":"⏺南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar": https://agit.ai/66666/mao/raw/commit/6330c452f5fb046a2715f11cc353f19e3871d268/jar/ZJ.jar"},
-{"key":"Zjdr","name":"🌐追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"jar": https://agit.ai/66666/mao/raw/commit/6330c452f5fb046a2715f11cc353f19e3871d268/jar/ZJ.jar"},
-{"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar": https://agit.ai/66666/mao/raw/commit/6330c452f5fb046a2715f11cc353f19e3871d268/jar/ZJ.jar"},
+{"key":"csp_Nkdy","name":"⏺南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/66666/mao/raw/commit/6330c452f5fb046a2715f11cc353f19e3871d268/jar/ZJ.jar"},
+{"key":"Zjdr","name":"🌐追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/66666/mao/raw/commit/6330c452f5fb046a2715f11cc353f19e3871d268/jar/ZJ.jar"},
+{"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/66666/mao/raw/commit/6330c452f5fb046a2715f11cc353f19e3871d268/jar/ZJ.jar"},
 
 {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1665492052.json"},
 
