@@ -136,6 +136,7 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/yxcqr/CatVodSpiderJS/main/drpy.js",
       "ext": "https://gitcode.net/qq_39677597/dr_py/-/raw/master/js/优酷.js"
     },
+    {"key": "dr_优酷2","name": "优酷(drpy)","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.ym.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},
     {
 "key": "drpy_js_喵喵", 
 "name": "2345看(道长)", 
@@ -154,17 +155,6 @@
 {"key":"csp_Nkdy","name":"⏺南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/66666/mao/raw/commit/6330c452f5fb046a2715f11cc353f19e3871d268/jar/ZJ.jar"},
 {"key":"Zjdr","name":"🌐追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/66666/mao/raw/commit/6330c452f5fb046a2715f11cc353f19e3871d268/jar/ZJ.jar"},
 {"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/66666/mao/raw/commit/6330c452f5fb046a2715f11cc353f19e3871d268/jar/ZJ.jar"},
-
-  {
-    "key": "Pang",
-    "name": "胖虎",
-    "type": "3",
-    "api": "csp_Dora",
-    "searchable": "1",
-    "quickSearch": "1",
-    "filterable": "1",
-    "jar": "https://agit.ai/66666/mao/raw/commit/6330c452f5fb046a2715f11cc353f19e3871d268/jar/ZJ.jar"
-  },
 
 {"key":"csp_Nmys","name":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://shuyuan.miaogongzi.net/shuyuan/1665492052.json"},
 
