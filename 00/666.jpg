@@ -22,8 +22,7 @@
       "api": "csp_AppTT",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar":"http://刚刚.live/jar2/0906.jar"
+      "filterable": 1
     },
 {"key":"csp_Alist1","name":"🅿Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://神器每日推送.tk/json/alist.json"},
 {"key":"csp_bendi","name":"🅿播本地视频(SP)","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
