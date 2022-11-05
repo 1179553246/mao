@@ -179,7 +179,7 @@
  "api":"csp_Gitcafe",
  "searchable":1,
  "quickSearch":1,
- "filterable":1,"jar":"https://agit.ai/66666/mao/raw/branch/master/jar/top97_1.jar"
+ "filterable":1
  },
 
  {
@@ -1240,7 +1240,7 @@
 
 //jar+壁纸
 
-"spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/1105.jar;md5;0B0EF0D93F6361333B36A28C6EC22757","wallpaper":"https://tool.weetai.cn/api",
+"spider": "https://agit.ai/66666/000/raw/branch/master/jar/bptx.jar;md5; 62BE3DA22FA36A27CF3AF1C754066EE0","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
