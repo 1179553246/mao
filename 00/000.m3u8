@@ -82,7 +82,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {"key": "csp_AppTT" ,"name": "图图（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
+    {"key": "csp_AppTT" ,"name": "图图（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
 {
      "key": "T4a",
      "name": "🍁T4聚合",
@@ -179,7 +179,7 @@
  "api":"csp_Gitcafe",
  "searchable":1,
  "quickSearch":1,
- "filterable":1
+ "filterable":1,"jar":"https://agit.ai/66666/mao/raw/branch/master/jar/top97_1.jar"
  },
 
  {
@@ -1240,7 +1240,7 @@
 
 //jar+壁纸
 
-"spider": "https://agit.ai/66666/000/raw/branch/master/jar/1105.jar;md5;    baa45b6abed8d4b5b541ac087f1bb300","wallpaper":"https://tool.weetai.cn/api",
+"spider": "https://gitlab.com/duomv/duo/-/raw/main/jar/1105.jar;md5;0B0EF0D93F6361333B36A28C6EC22757","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
