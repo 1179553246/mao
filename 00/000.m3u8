@@ -209,7 +209,7 @@
  "api":"csp_Yiso",
  "searchable":1,
  "quickSearch":1,
- "filterable":0, "jar":"http://home.jundie.top:81/jar/top97_1.jar;md5;61780B0CC1103252BD6CD029E90029CB"
+ "filterable":0, "jar":""
  },
 
 {
@@ -1236,7 +1236,7 @@
 
 //jar+壁纸
 
-"spider":"https://framagit.org/ygfxz/000/-/raw/master/xo1104.jar;md5;3E1C5B18F018FB881CBBBFC446E876C2","wallpaper":"https://tool.weetai.cn/api",
+"spider":"https://agit.ai/66666/XC/raw/branch/master/jar/xo1104.jar;md5;B417901835117651530CA2C4DA026080","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
