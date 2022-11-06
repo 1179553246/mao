@@ -179,7 +179,7 @@
  "api":"csp_Gitcafe",
  "searchable":1,
  "quickSearch":1,
- "filterable":1,"jar":"http://home.jundie.top:81/jar/top97_1.jar;md5;61780B0CC1103252BD6CD029E90029CB"
+ "filterable":1,"jar":""
  },
 
  {
@@ -189,7 +189,7 @@
  "api":"csp_Zhaozy",
  "searchable":1,
  "quickSearch":1,
- "filterable":1,"jar":"http://home.jundie.top:81/jar/top97_1.jar;md5;61780B0CC1103252BD6CD029E90029CB"
+ "filterable":1,"jar":""
  },
  {
  "key":"AliPS",
@@ -198,9 +198,9 @@
  "api":"csp_AliPS",
  "searchable":1,
  "quickSearch":1,
- "filterable":1,"jar":"http://home.jundie.top:81/jar/top97_1.jar;md5;61780B0CC1103252BD6CD029E90029CB"
+ "filterable":1,"jar":""
  },
- {"key":"Upyunso","name":"☁️云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0, "jar":"http://home.jundie.top:81/jar/top97_1.jar;md5;61780B0CC1103252BD6CD029E90029CB"},
+ {"key":"Upyunso","name":"☁️云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0, "jar":""},
 
  {
  "key":"csp_Yiso",
@@ -795,7 +795,7 @@
  "api":"csp_PushAgent",
  "searchable":0,
  "quickSearch":0,
- "filterable":0, "jar":"http://home.jundie.top:81/jar/top97_1.jar;md5;61780B0CC1103252BD6CD029E90029CB"
+ "filterable":0, "jar":""
  },
 
  {
@@ -1236,7 +1236,7 @@
 
 //jar+壁纸
 
-"spider":"https://codeberg.org/Ygfxz/999xx/raw/branch/main/Top2.jar;md5;92A99E728D2F121D7B614582943EF3C7","wallpaper":"https://tool.weetai.cn/api",
+"spider":"https://framagit.org/ygfxz/000/-/raw/master/xo1104.jar;md5;3E1C5B18F018FB881CBBBFC446E876C2","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
