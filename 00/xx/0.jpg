@@ -58,7 +58,10 @@
             "url": "http://饭太硬.ml/tvb/x",
             "name": "🥣饭太硬"
         }, 
-        
+          {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "🚒巧机"
+        },
         {
             "url": "http://43.139.29.179:5705/config/2",
             "name": "🍓公益网盘"
@@ -444,10 +447,6 @@
             "name": "🚓2柒0"
         },
        
-        {
-            "url": "https://box.okeybox.top/tv/shyi.json",
-            "name": "🚒白嫖shyi"
-        },
      
         {
             "url": "https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/TVBOXJTB.JSON",
