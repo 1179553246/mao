@@ -202,15 +202,16 @@
  },
  {"key":"Upyunso","name":"☁️云搜","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0, "jar":""},
 
- {
- "key":"csp_Yiso",
- "name":"🎯易搜",
- "type":3,
- "api":"csp_Yiso",
- "searchable":1,
- "quickSearch":1,
- "filterable":0, "jar":""
- },
+{
+      "key": "yisou",
+      "name": "🎯易搜",
+      "type": 3,
+      "api": "csp_Yisou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 1,
+      "filterable": 0
+    },
 
 {
         "key": "csp_xb_7xiady",
@@ -593,9 +594,16 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": "http://45.125.46.61/box/Bili/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json",":jar": "http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5"
-		},{"key":"多多资源","name":"🥇多多影视【极速】","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,
-//"playUrl":"https://player.movie09.com/dplayer/?url=",
-"categories":["国产剧","港台剧","日韩剧","欧美剧","泰国剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","灾难片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","记录片","论理","综艺","动漫","动画片","国产动漫","日韩动漫","欧美动漫","海外剧","国内综艺","海外综艺"]},{
+		}, {
+"key": "椰子采集",
+"name": "▎星辰视频  ▎",
+"type": 1,
+"api": "https://zy.gbxy.net.cn/api.php/provide/vod/?ac=list",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"categories": ["国产剧","日韩剧","港台剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","国内综艺","综艺","海外综艺","国产动漫","日韩动漫"]
+},{
 			"key": "csp_剧荒",
 			"name": "🎭剧荒",
 			"type": 3,
@@ -901,6 +909,10 @@
 {"name":"聚合01","type":3,"url":"Demo"},
 {"name":"并发02","type":2,"url":"Parallel"},
 {"name":"轮询03","type":2,"url":"Sequence"},
+
+{"name":"ronxin","type": 1,"url": "http://rxjx.kuanjv.com/allm3u8.php?url="},
+
+{"name":"Json1","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["imgo","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},{"name": "Json2","type": 1,"url": "http://jx.vipmv.co/json.php?token=123457&url=","ext": {"flag": ["qq","腾讯","letv","乐视","mgtv","芒果","youku","优酷","qiyi","iqiyi","爱奇艺","奇艺"]}},
 
 {
             "name" : "江湖1080",
