@@ -17,8 +17,8 @@
             "name": "🐃综合1"
         },
          {
-            "url": "https://agit.ai/66666/XC/raw/branch/master/C.png",
-            "name": "🫕测试"
+            "url": "clan://localhost/tvboxhh/1107tvbox/C.json",
+            "name": "🫕本地测试"
         },
         {
             "url": "https://0a.fit/7777",
@@ -59,7 +59,7 @@
             "name": "🥣饭太硬"
         }, 
           {
-            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
             "name": "🚒巧机"
         },
         {
