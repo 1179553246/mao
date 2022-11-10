@@ -5,6 +5,10 @@
             "name": "👣默认内置"
         },
         {
+            "url": "https://agit.ai/66666/XC/raw/branch/master/9527.json",
+            "name": "🐻默认精简"
+        },
+        {
             "url": "https://framagit.org/ygfxz/000/-/raw/master/000.m3u8",
             "name": "⛳️默认内置（备用）"
         },
@@ -345,10 +349,7 @@
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
             "name": "🦊佰欣园"
         },
-        {
-            "url": "https://download.kstore.space/download/2863/01.txt",
-            "name": "🐻潇洒"
-        },
+       
         {
             "url": "http://maoyingshi.cc/tvbox/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/1.m3u8",
             "name": "🐼猫影TV盒"
