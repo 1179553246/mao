@@ -68,7 +68,7 @@
 {"key":"csp_Lgyy","name":"🌀蓝光┃SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_fant","name":"🍙饭团┃SP","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 
-{"key":"Voflix","name":"🦊茶杯狐","type":3,"api":"csp_Voflix","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Voflix","name":"🦊茶杯狐","type":3,"api":"csp_Voflix","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/kvymin/TV/raw/branch/master/jar/xo1102.jar;md5;e32038569f2e456f90e4371472a5bd5a"},
 
 {"key":"mtv_pc_Zjdr","name":"📦追剧|SP","type":3,"api":"csp_Zjdr"          ,"searchable":1,"quickSearch":1,"filterable":1, "jar": "http://m.miaotvs.cn/资源包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC"},
 
