@@ -1,6 +1,6 @@
 {
  
- "spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/xo19.jar;md5; 33055C7A5B62A2041901B7C14D063466",
+ "spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/xo20.jar;md5; 5FBAF69307A3A5F526FE075D93463EB7",
    "wallpaper":"https://bg.s.welsun.win/api",
    "lives": [
      {
@@ -111,6 +111,9 @@
 {"key":"csp_Dm84","name":"🚌动漫巴士┃SP","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"🐾日本动漫┃SP","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Anfuns","name":"🎀Anfuns┃SP","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_Sp_谁演唱会","name":"🅱️哔哩┃哗哩一集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 1,"ext": "./json/演唱会.php"},
+{"key":"csp_Sp_哗哩合集","name":"🅱️哔哩┃哗哩二集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable": 0,"ext": "./json/哗哩合集T2.php"},
 
 {"key":"csp_trj","name": "🛫唐人街┃墙外","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Nbys","name":"🛫泥视频┃墙外","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
