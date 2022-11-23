@@ -48,14 +48,12 @@
             "url": "http://101.34.67.237/config/3",
             "name": "💎道长T4线路"
         },
-        {"url": "http://tvbox.lengniuge.eu.org/ts",
-        "name": "📱ts"
-    },
+      
     {"url": "https://agit.ai/66666/mao/raw/branch/master/00/ziyong.json",
         "name": "VIP0709"
     },
         {
-            "url": "http://我是.肥猫.love:63",
+            "url": "http://w.g9.pub:66/381203888/666.json",
             "name": "🐱肥猫"
         }, 
          {
@@ -80,10 +78,6 @@
         {
             "url": "https://download.kstore.space/download/2863/01.txt",
             "name": "潇洒线路"
-        }, {
-            "url": "https://饭.eu.org/xx/o",
-            "name": "🍵饭T硬",
-            "time": "2022-11-11 02:00:00"
         },
         {
             "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
@@ -153,10 +147,7 @@
 ",
             "name": "🏌道长备用"
         },
-        {
-            "url": "https://share.nite07.com/api/v3/file/source/8322/Box.json?sign=n-y8zc-xcOgNHwmm9aOmtR-wySxxeBuM1i7KVlGdM-Q%3D%3A0",
-            "name": "在线竹海"
-        },
+       
          {
             "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/%E7%94%9C%E8%9C%9C.json",
             "name": "🧨风起"
@@ -474,7 +465,7 @@
             "name": "🐊Yoursmile"
         },
         {
-            "url": "http://mtw.so/64J1GQ",
+            "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
             "name": "🐠老刘备"
         },
          {
@@ -592,24 +583,6 @@
         {
             "url": "http://api.xiaoz.fit/1.json",
             "name": "🏈小Z"
-        },
-         {
-            "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
-            "name": "🐎vip0"
-        },
-        {
-            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
-            "name": "🐉vip1"
-        },
-       
-        {
-            "url": "http://mtw.so/5PGEEm",
-            "name": "🐘vip2"
-        },
-       
-        {
-            "url": "http://api.xiaoz.fit/18.json",
-            "name": "🦒vip3"
         }
     ]
 }
