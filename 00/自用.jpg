@@ -80,7 +80,10 @@
 
   {"key":"Tutu_spider","name":"🏵图图(qj)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://45.207.11.9:6618", "jar":"http://rl1eetffv.bkt.clouddn.com/yqk1122.jar;md5;591bf6a064fb74746d4581fe75f2e715"},
 
-{"key":"csp_Lgyy","name":"🌀蓝光┃SP","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/CZ%20LG.jar;md5; DBAE0AE894A09449674B0D9B5F7B1B0D"},
+{"key":"AppTT","name":"T3图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/ts.txt;md5; 8DB029245922B0D8BA98D6C51EA8252D"},
+{"key":"Lgyy","name":"T3蓝光","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/ts.txt;md5; 8DB029245922B0D8BA98D6C51EA8252D"},
+{"key":"Pang","name":"T3胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/ts.txt;md5; 8DB029245922B0D8BA98D6C51EA8252D"},
+
 {"key":"csp_fant","name":"🍙饭团┃SP","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 
 {"key":"Voflix","name":"🦊茶杯狐","type":3,"api":"csp_Voflix","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
@@ -104,7 +107,7 @@
 {"key":"csp_Bd","name":"💥bidi┃SP","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Nmys","name":"🌾农民┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.ga/x/json/nmys.json"},
-{"key":"csp_Nkdy","name":"🗽南柯┃SP","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Nkdy","name":"🗽南柯┃SP","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://神器每日推送.tk/vod;md5; DADE92771F9A2E0F5EB89D62B6CA3232"},
 {"key":"csp_Lib","name": "🎉Lib┃SP","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Auete","name":"🏝Aue┃SP","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tkys","name": "🔃天空┃SP","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -237,7 +240,8 @@
  {"name":"解析聚合","type":3,"url":"Demo"},
  {"name":"Json并发","type":2,"url":"Parallel"},
  {"name":"Json轮询","type":2,"url":"Sequence"},
- {"name":"分享者","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+ {"name":"分享者1","type":1,"url":"http://150.158.175.250:88/parse/sign/552a0ef4c229907ea84dd1c7068ff063?url=","header":{"User-Agent":"Mozilla/5.0"}},
+ {"name":"分享者2","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
  {"name":"自1","type":1,"url":"http://3.37.195.161:54371/parse/api/dyg.js?url=","header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"自2","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
 {"name":"自3","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
