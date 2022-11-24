@@ -26,10 +26,8 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {"key":"douban","name":"🅱豆瓣荐片┃t4首页","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"js豆瓣","name":"🅱豆瓣热播┃dr首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key":"csp_Bili","name":"🅱哔哩合集","type": 3,"api": "csp_Bili2","searchable": 0,"quickSearch": 0,"filterable": 0,"ext":"http://饭太硬.ml/tvb/json/bilibili.json"},
-{"key":"csp_Biliych","name":"🅱看演唱会","type": 3,"api": "csp_Bili2","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://饭太硬.ml/tvb/json/biliych.json"},
+    {"key":"t4豆瓣","name":"🅱️豆瓣荐片|T首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"js豆瓣","name":"🅱️豆瓣热播┃dr首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
 
  {
       "key": "csp_Alist",
