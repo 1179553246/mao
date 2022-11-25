@@ -93,7 +93,7 @@
 {"key":"mtv_pc_Zjdr","name":"📦追剧|SP","type":3,"api":"csp_Zjdr"          ,"searchable":1,"quickSearch":1,"filterable":1, "jar": "http://m.miaotvs.cn/资源包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC"},
 
 {"key":"csp_Bttoo","name":"✌2BT┃SP","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_GitCafe","name":"📜纸条┃云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/XC/raw/branch/master/YP.TXT"},
+{"key":"csp_GitCafe","name":"📜纸条┃云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/XC/raw/branch/master/YP.TXT","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/YP.jar"},
 {"key":"csp_Czsapp","name":"📔厂长┃SP","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
 {"key":"csp_Ysgc","name":"🏭工厂┃SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan" ,"name":"⏮️低端┃SP","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
@@ -154,11 +154,11 @@
 {"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/初中课堂.json"},
 {"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/高中课堂.json"},
 	
-{"key":"Yisou","name":"😹易搜┃搜索","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/66666/XC/raw/branch/master/YP.TXT"},
-{"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/66666/XC/raw/branch/master/YP.TXT"},
-{"key":"Upyunso","name":"😻Up云搜┃搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/66666/XC/raw/branch/master/YP.TXT"},
-{"key":"Alips","name":"🦊Ali盘搜┃搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/66666/XC/raw/branch/master/YP.TXT"},
-{"key":"push_agent","name":"手机推送┃云盘|磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/66666/XC/raw/branch/master/YP.TXT"},
+{"key":"Yisou","name":"😹易搜┃搜索","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/66666/XC/raw/branch/master/YP.TXT","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/YP.jar"},
+{"key":"Zhaozy","name":"🐺找资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/66666/XC/raw/branch/master/YP.TXT","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/YP.jar"},
+{"key":"Upyunso","name":"😻Up云搜┃搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/66666/XC/raw/branch/master/YP.TXT","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/YP.jar"},
+{"key":"Alips","name":"🦊Ali盘搜┃搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/66666/XC/raw/branch/master/YP.TXT","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/YP.jar"},
+{"key":"push_agent","name":"手机推送┃云盘|磁力","type":3,"api":"csp_PushAgent","playerType":1,"searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/66666/XC/raw/branch/master/YP.TXT","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/YP.jar"},
  {
       "key": "csp_XBPQ_6080",
       "name": "6080电影(XBPQ)",
