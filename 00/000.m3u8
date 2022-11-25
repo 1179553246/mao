@@ -200,7 +200,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"csp_GitCafe1","name":"📚纸条|云盘1","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/XC/raw/branch/master/ZT.txt","jar":"http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
+    {"key":"csp_GitCafe1","name":"📚纸条|云盘1","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/XC/raw/branch/master/ZT.txt","jar":"https://gitlab.com/duomv/duo/-/raw/main/jar/ali.zip"},
 
 {"key":"csp_GitCafe","name":"📘纸条|云盘2","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/XC/raw/branch/master/YP.TXT","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/YP.jar"},
 
