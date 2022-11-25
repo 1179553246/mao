@@ -145,8 +145,6 @@
       "ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/牛马TV.js"
     },
 
-{"key":"Gitcafe","name":"📘qj纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"c3895f91c81741959c22feb5fe3a5def","jar": "http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
-
 {"key":"Voflix","name":"🦊茶杯狐","type":3,"api":"csp_Voflix","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 
 {"key":"csp_Nkdy","name":"⏺南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://神器每日推送.tk/vod;md5; DADE92771F9A2E0F5EB89D62B6CA3232"},
@@ -206,7 +204,7 @@
 
 {
  "key":"Gitcafe",
- "name":"🔖小纸条",
+ "name":"📕小纸条",
  "type":3,
  "api":"csp_Gitcafe",
  "searchable":1,
