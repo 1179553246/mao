@@ -204,16 +204,6 @@
       "filterable": 1
     },
 
-  //{
- "key":"Gitcafe",
- "name":"📕小纸条",
- "type":3,
- "api":"csp_Gitcafe",
- "searchable":1,
- "quickSearch":1,
- "filterable":1,"jar":""
- },
-
  {
  "key":"FindZY",
  "name":"🔍找资源",
