@@ -202,7 +202,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"Gitcafe1","name":"📚纸条|云盘1","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/XC/raw/branch/master/ZT.txt","jar":""},
+    {"key":"Gitcafe1","name":"📚纸条|云盘1","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok","jar":""},
 
 {"key":"csp_GitCafe","name":"📘纸条|云盘2","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/XC/raw/branch/master/ZT.txt","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/Zt2.jar"},
 
