@@ -16,10 +16,7 @@
             "url": "https://gitlab.com/duomv/duo/-/raw/main/txt/live.txt",
             "name": "🏡直播合集"
         },
-          {
-            "url": "https://notabug.org/qizhen15800/My9394/raw/master/max911.m3u8",
-            "name": "🐃综合1"
-        },
+        
          {
             "url": "clan://localhost/tvboxhh/1107tvbox/C.json",
             "name": "🫕本地测试"
@@ -44,10 +41,7 @@
     {"url": "http://pandown.pro/tvbox/tvbox.json",
         "name": "🧉巧技"
     }, 
-    {
-            "url": "http://101.34.67.237/config/3",
-            "name": "💎道长T4线路"
-        },
+  
       
     {"url": "https://agit.ai/66666/mao/raw/branch/master/00/ziyong.json",
         "name": "VIP0709"
@@ -107,20 +101,19 @@
             "url": "https://hutool.ml/tang",
             "name": "💎唐三线路"
         },
-        {
-            "url": "https://0a.fit/2222",
-            "name": "2222"
-        }, {
+       {
             "url": "http://52bsj.vip:98/wuai",
             "name": "吾爱"
         }, {"url": "http://52bsj.vip:98/sansan",
         "name": "盒子汇"
-    },{"url": "http://52bsj.vip:98/6l",
-        "name": "三哥"
     },
-     {
-            "url": "http://52bsj.vip:98/94",
-            "name": "🏓四哥"
+    {
+            "url": "https://cnvip.x10.mx/wp/xsvip/wp-content/uploads/sites/2/2022/10/01.txt",
+            "name": "🚀潇洒线路"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "🚀南风线路"
         },
     {"url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
         "name": "tv猫盒"
@@ -130,10 +123,7 @@
             "url": "https://notabug.org/gw/m/raw/master/103.json",
             "name": "GW"
         },
-           {
-            "url": "https://framagit.org/ygfxz/000/-/raw/master/AA.json",
-            "name": "AA888"
-        }, {"url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+       {"url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
         "name": "元兴"
     },{"url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
         "name": "苹果TV"
@@ -142,10 +132,13 @@
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ikbb.json",
             "name": "🥣看我吧"
         },
-         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/ptest.json
-",
-            "name": "🏌道长备用"
+        {
+            "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "name": "🏡应用多多家庭版"
+        },
+        {
+            "url": "http://101.34.67.237/config/3",
+            "name": "💎道长T4线路"
         },
        
          {
@@ -213,8 +206,8 @@
             "name": "🛣军碟"
         },
         {
-            "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfjt.json",
-            "name": "💒家庭FASTGIT"
+            "url": "http://catvod.fun:8001/tv/m.json",
+            "name": "💒馒头"
         },
         {
             "url": "http://miaotvs.cn/osc",
