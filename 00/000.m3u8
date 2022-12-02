@@ -100,6 +100,8 @@
 
 {"key":"百影视频","name":"🍳百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":"http://rl1eetffv.bkt.clouddn.com/czzy1123.jar;md5;e3f1a10099611223738e86beb3e859c1"},
 
+{"key": "csp_Lgyy","name": "蓝光","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1},
+
  {
       "key": "drpy_js_360影视",
       "name": "360影视[DRPY]",
@@ -152,7 +154,7 @@
 
 {"key":"Voflix","name":"🦊茶杯狐","type":3,"api":"csp_Voflix","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 
-{"key":"csp_Nkdy","name":"⏺南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://神器每日推送.tk/vod;md5; DADE92771F9A2E0F5EB89D62B6CA3232"},
+{"key":"csp_Nkdy","name":"⏺南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 
 {"key":"mtv_pc_Zjdr","name":"📦追剧达人","type":3,"api":"csp_Zjdr"          ,"searchable":1,"quickSearch":1,"filterable":1,"jar": "http://m.miaotvs.cn/资源包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC"},
 
@@ -1161,7 +1163,7 @@
 
 //jar+壁纸
 
-"spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/xo27.jar;md5; EAD1319134EBA7F8835536BCFEA7917B","wallpaper":"https://tool.weetai.cn/api",
+"spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/xo03.png;md5; BBFD18D0EDA71AA0256B423F7804C037","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
