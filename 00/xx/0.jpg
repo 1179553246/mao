@@ -2,7 +2,11 @@
     "urls": [
          {
             "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-            "name": "👣默认内置"
+            "name": "💖默认接口"
+        },
+         {
+            "url": "http://106.75.175.172:30300/66666/mao/raw/branch/master/00/000.m3u8",
+            "name": "💕默认备用"
         },
         {
             "url": "https://agit.ai/66666/XC/raw/branch/master/9527.json",
@@ -31,7 +35,12 @@
         {
             "url": "https://agit.ai/66666/mao/raw/branch/master/00/自用.jpg",
             "name": "生活频道"
-        }, {"url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+        },
+        {
+            "url": "http://106.75.175.172:30300/66666/mao/raw/branch/master/00/自用.jpg",
+            "name": "生活频道备用"
+        },
+         {"url": "https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
         "name": "🍷 FongMi"
     },{"url": "http://drpy.site/js1",
         "name": "🐮 小雅js"
@@ -284,7 +293,7 @@
             "name": "💋木极"
         },
         {
-            "url": "http://0454dt.com/tvbox",
+            "url": "https://raw.iqiq.io/2hacc/TVBox/main/tvbox",
             "name": "👑二哈挂机"
         },
         {
