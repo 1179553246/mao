@@ -221,7 +221,7 @@
 			"filterable": 1,
 			"ext":"https://agit.ai/66666/XC/raw/branch/master/ZT.txt","jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/%E7%BA%B8%E6%9D%A1.zip;md5; F54AFD1C066056D13E241361DFC876B4"
 		},
-		{"key": "Gitcafe1","name": "️📒纸条|云盘3","type": 3,
+		{"key": "Gitcafe2","name": "️📒纸条|云盘3","type": 3,
 			"api": "csp_Gitcafe",
 			"searchable": 1,
 			"quickSearch": 1,
