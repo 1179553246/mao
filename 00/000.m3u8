@@ -83,7 +83,7 @@
       "filterable": 0
     },
  {"key":"csp_AppTT","name":"🛟图图影视（SP）","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788"},
-   {"key":"Tutu_spider","name":"🏵图图(qj)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://45.207.11.9:6618", "jar":""},
+   {"key":"Tutu_spider","name":"🏵图图(qj)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://45.207.11.9:6618", "jar":"http://cdn.qiaoji8.com/czzy1205.jar;md5;9a18d106df75839ff82b6b87634ffee9"},
 
 {"key":"t4豆瓣","name":"🅱️豆瓣荐片|T首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"js豆瓣","name":"🅱️豆瓣热播┃dr首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
