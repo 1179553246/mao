@@ -102,7 +102,7 @@
 
 {"key": "csp_Lgyy","name": "🧿蓝光","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":""},
 
-{"key":"csp_CZSPP","name":"🚚厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"jar":""},
+{"key":"csp_CZSPP","name":"🚚厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://w.g9.pub:66/fantaiying/xo.jar;md5;ae12ddaa1eb66e2c8b304a8be23d2af1"},
 
  {
       "key": "drpy_js_360影视",
