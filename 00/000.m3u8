@@ -215,7 +215,7 @@
       "filterable": 1
     },
 
-{"key":"csp_GitCafe","name":"📚纸条|云盘1","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/66666/XC/raw/branch/master/ZT.txt"},
+{"key":"csp_GitCafe","name":"📚纸条|云盘1","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://w.g9.pub:66/381203888/token.txt"},
             	{"key": "Gitcafe1","name": "️📕纸条|云盘2","type": 3,
 			"api": "csp_Gitcafe",
 			"searchable": 1,
