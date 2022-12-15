@@ -92,7 +92,7 @@
 
 {"key":"csp_SP293","name":" 🚀293","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/293.jar;md5;E7DC9DEDDBAD6457AEC946B7EFE8F483"},
 
-{"key":"csp_ZJMiao","name":"🖼新视觉SP","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"http://tvmvip110.live/down.php/ecf7785b6f419593e3b1ee190f3903d1.jar"},
+{"key":"csp_ZJMiao","name":"🖼新视觉SP","type":3,"api":"csp_Xinsj","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 
 {"key":"csp_DiDuan" ,"name":"🧰低端|SP","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","playerType":2,"searchable":1,"quickSearch":1,"filterable":0},
 
@@ -1071,7 +1071,7 @@
 
 //jar+壁纸
 
-"spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/FXZ08.png;md5;8C299BFD02C92BD8FF10540DBEE1C85A","wallpaper":"https://tool.weetai.cn/api",
+"spider":"http://tvmvip110.live/down.php/5a5c2165bff9d6315113907d30eacb07.png;md5; 0EE6494774C013AD4238F01CDE90DFF5","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
