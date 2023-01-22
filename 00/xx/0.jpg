@@ -17,6 +17,10 @@
             "name": "⛳️默认内置（备用）"
         },
          {
+            "url": "https://pastebin.com/raw/3GncHGMC",
+            "name": "⛳️默认内置（备用）2"
+        },
+         {
             "url": "https://gitlab.com/duomv/duo/-/raw/main/txt/live.txt",
             "name": "🏡直播合集"
         },
@@ -47,11 +51,13 @@
     },{"url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
         "name": "霜辉月明py"
     }, 
-    {"url": "http://pandown.pro/tvbox/tvbox.json",
-        "name": "🧉巧技"
+    {"url": "https://tvbox.cainisi.cf/",
+        "name": "🥬菜妮丝"
     }, 
   
-      
+      {"url": "http://pandown.pro/tvbox/tvbox.json",
+        "name": "🧉巧技"
+    }, 
     {"url": "http://shagua888168.3vdo.club",
         "name": "💠蓝魔"
     },
@@ -143,7 +149,7 @@
             "name": "🥣看我吧"
         },
         {
-            "url": "https://gitlab.com/duomv/duo/-/raw/main/v.json",
+            "url": "https://yydsys.top/duo/v.json",
             "name": "🏡应用多多家庭版"
         },
         {
