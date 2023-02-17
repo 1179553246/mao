@@ -1,6 +1,6 @@
 {
  
- "spider":"https://gitee.com/fragrance-in-chu/mys/raw/master/0130.txt;md5; 22FC007C0F7791885C1C3C15873B5E99",
+ "spider":"http://tvmvip110.live/down.php/f8e19863e2fe0fb0d5c103fbe30e5571.txt;md5; E4C353FF388DE2647E1BBC31C4F6A76E",
    "wallpaper":"https://bg.s.welsun.win/api",
    "lives": [
      {
@@ -74,7 +74,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://154.39.64.151:5566$$$Qks3NWg0dnRPbmlsV3JMdCNkMFZ0OHBJbjRJQXByY3I=$$$Y2hpV2g0dnRiU3pYUGdWWg=="
+            "ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="
         },
 
   {"key":"Tutu_spider","name":"🏵图图(qj)","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://124.248.66.89:7788/", "jar":""},
@@ -779,7 +779,7 @@
  {"category":4,"name":"start-on-prepared","value":"1"},
  {"category":1,"name":"http-detect-range-support","value":"0"},
  {"category":1,"name":"fflags","value":"fastseek"},
- {"category":2,"name":"skip_loop_filter","value":"48"},
+ {"category":2,"name":"skip_loop_filter","value":"0"},
  {"category":4,"name":"reconnect","value":"1"},
  {"category":4,"name":"enable-accurate-seek","value":"0"},
  {"category":4,"name":"mediacodec","value":"0"},
@@ -796,7 +796,7 @@
  {"category":4,"name":"start-on-prepared","value":"1"},
  {"category":1,"name":"http-detect-range-support","value":"0"},
  {"category":1,"name":"fflags","value":"fastseek"},
- {"category":2,"name":"skip_loop_filter","value":"48"},
+ {"category":2,"name":"skip_loop_filter","value":"0"},
  {"category":4,"name":"reconnect","value":"1"},
  {"category":4,"name":"enable-accurate-seek","value":"0"},
  {"category":4,"name":"mediacodec","value":"1"},
