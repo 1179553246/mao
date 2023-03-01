@@ -54,7 +54,10 @@
     {"url": "https://tvbox.cainisi.cf/",
         "name": "🥬菜妮丝"
     }, 
-  
+  {
+            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+            "name": "🚀巧技(备)"
+        },
       {"url": "http://pandown.pro/tvbox/tvbox.json",
         "name": "🧉巧技"
     }, 
@@ -71,8 +74,8 @@
             "name": "🥣饭太硬"
         }, 
           {
-            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-            "name": "🚒巧机"
+            "url": "https://pastebin.com/raw/5NHaxyGR",
+            "name": "🚒道长"
         },
         {
             "url": "http://43.139.29.179:5705/config/2",
@@ -224,7 +227,7 @@
             "name": "😀4K"
         },
         {
-            "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
+            "url": ""http://8.210.220.114:8888/down/9un3Fm2YFW1f.json",
             "name": "😍星辰"
         },
         {
@@ -232,7 +235,7 @@
             "name": "🤑月光宝盒Box"
         },
         {
-            "url": "http://miaotvs.cn/osc",
+            "url": "http://miaotvs.cn/meow",
             "name": "😎喵TV"
         },
         {
