@@ -14,19 +14,19 @@
         },
         {
             "url": "https://framagit.org/ygfxz/000/-/raw/master/000.m3u8",
-            "name": "⛳️默认内置（备用）"
+            "name": "⛳️测试专用"
         },
          {
             "url": "https://try.gitea.io/ygfxz/0/raw/branch/main/000.m3u8",
             "name": "⛳️默认内置（备用）2"
         },
          {
-            "url": "https://gitlab.com/duomv/duo/-/raw/main/txt/live.txt",
-            "name": "🏡直播合集"
+            "url": "https://pastebin.com/raw/e3A5M7gd",
+            "name": "🏡默认内置（备用）0"
         },
         
          {
-            "url": "https://agit.ai/lengniuge/tv/raw/branch/master/yingshi",
+            "url": "http://tv.lengniuge.ga/yingshi",
             "name": "🐂楞牛"
         },
         {
@@ -106,8 +106,8 @@
             "name": "🏀JS02"
         },
          {
-            "url": "https://cdn.jsdelivr.net/gh/zqk219/baip@main/JS/js.json",
-            "name": "📀JS03"
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "📀高天流云"
         },
           {
             "url": "http://home.jundie.top:81/top98.json",
