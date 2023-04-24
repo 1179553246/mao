@@ -81,7 +81,7 @@
             "name": "🍓公益网盘"
         },
         {
-            "url": "app.realku.cn:1080/TVBox408/XYQTVBox/XYQTVBox.json",
+            "url": "http://app.realku.cn:1080/TVBox408/XYQTVBox/XYQTVBox.json",
             "name": "XYQ"
         }, {
             "url": "http://www.dmtv.ml/mao/mao.php?type=single",
@@ -181,8 +181,8 @@
             "name": "🏀vvebo"
         },
          {
-            "url": "https://agit.ai/yuegu09/XYB/raw/branch/master/TVB/pz.json",
-            "name": "🏸XYB-PZ"
+            "url": "https://agit.ai/Ltang/Tvsy/raw/branch/master/ystv.json",
+            "name": "🏸ystv"
         },
           {
             "url": "https://www.agit.ai/chenLD/jar/raw/branch/master/0928.json",
