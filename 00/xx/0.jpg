@@ -81,7 +81,7 @@
             "name": "🍓公益网盘"
         },
         {
-            "url": "http://app.realku.cn:1080/TVBox408/XYQTVBox/XYQTVBox.json",
+            "url": "https://framagit.org/hy31512-maker/XYQTVBox/-/raw/main/XYQTVBox.json",
             "name": "XYQ"
         }, {
             "url": "http://www.dmtv.ml/mao/mao.php?type=single",
@@ -113,10 +113,10 @@
             "name": "🐼️俊哥"
         },
         {
-            "url": "http://hutool.ml/tang",
+            "url": "https://pan.shangui.cc/f/Xg5sd/tangs.json",
             "name": "💎唐三线路"
         },
-        {"url":"http://tvbo.run.goorm.site/tangs.json",
+        {"url":"http://hutool.ml/tang",
         "name":"唐三备用"},
        {
             "url": "http://52bsj.vip:98/wuai",
