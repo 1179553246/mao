@@ -72,13 +72,17 @@
             "url": "http://饭太硬.ga/tv",
             "name": "🥣饭太硬"
         }, 
+        {
+            "url": "http://备用.饭太硬.ml/tv",
+            "name": "🥣饭太硬备用"
+        }, 
           {
             "url": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json",
             "name": "🚒道长"
         },
         {
-            "url": "http://43.139.29.179:5705/config/2",
-            "name": "🍓公益网盘"
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "🍓小米"
         },
         {
             "url": "https://framagit.org/hy31512-maker/XYQTVBox/-/raw/main/XYQTVBox.json",
