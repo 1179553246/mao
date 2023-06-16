@@ -95,7 +95,15 @@ CCTV2,http://migu.jilu8.cn/3221232777/index.m3u8
 CCTV2,http://migu.jilu8.cn/3221231678/index.m3u8
 CCTV2,http://39.135.138.58:18890/PLTV/88888888/224/3221225643/index.m3u8?$移动蓝光1080P 
 CCTV2,http://111.20.33.93/TVOD/88888893/224/3221226224/index.m3u8
-CCTV2,http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8?zzhongd
+CCTV2,http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8?zzhongd CCTV3,http://219.140.56.34:3333/tsfile/live/0003_1.m3u8
+CCTV3,https://cntv.sbs/live05?id=cctv3
+CCTV3,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+CCTV3,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
+CCTV3,http://221.213.43.82:8888/newlive/live/hls/4/live.m3u8
+CCTV3,http://125.210.152.19:9120/live/hzgq-cctv3gq-h264.m3u8
+CCTV3,http://111.59.63.32:9901/tsfile/live/1010_1.m3u8
+CCTV3,http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/001/2000203803.m3u8
+CCTV3,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlist.m3u8?CONTENTID=00000110240245_1&AUTHINFO=FABqh274XDn8fkurD5614vXukv%2Bllu6MCULXDoxJ6upZMyB3BTGL8Fz1cBrzuGpUOEVg8724ObgLgS2tj%2FSq8xWZ1p4rvSaCId2u7KLjn%2F46Kf00Xa0UUCbNAV9EWdHyJMhivxx1S8fcvB8Encq%2Br2%2FNnfOdizLLGdg97cAjQVBrJ5ycvSCIUdxWiGJJfFI3hgreSH2tPUplkub%2BeFttIQ%3D%3D&USERTOKEN=OcdSKDHIYJi7z1i4zpgoeOB0O2BhR0KR
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226398/1.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225782/1.m3u8
 CCTV3,http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8
