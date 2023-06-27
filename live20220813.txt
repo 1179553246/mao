@@ -97,7 +97,13 @@ CCTV2,http://migu.jilu8.cn/3221232777/index.m3u8
 CCTV2,http://migu.jilu8.cn/3221231678/index.m3u8
 CCTV2,http://39.135.138.58:18890/PLTV/88888888/224/3221225643/index.m3u8?$移动蓝光1080P 
 CCTV2,http://111.20.33.93/TVOD/88888893/224/3221226224/index.m3u8
-CCTV2,http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8?zzhongd CCTV3,http://219.140.56.34:3333/tsfile/live/0003_1.m3u8 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3746132328_-1754088424/ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8?icpid=3&RTS=1668594245&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
+CCTV2,http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8?zzhongd CCTV3,http://hz752.love:63/live_ffb0/astv.php?id=cctv3hd
+CCTV3,http://hz752.love:63/live_ffb0/bst.php?id=cctv3
+CCTV3,http://hz752.love:63/live_ffb0/mak.php?id=cctv3
+CCTV3,http://hz752.love:63/live_ffb0/cqyx.php?id=cctv3HD
+CCTV3,http://hz752.love:63/live_ffb0/yst.php?id=cctv-3
+CCTV3,http://hz752.love:63/live_ffb0/migu.php?id=cctv3
+CCTV3,http://hz752.love:63/live_ffb0/bfgd.php?id=062 CCTV3,http://219.140.56.34:3333/tsfile/live/0003_1.m3u8 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3746132328_-1754088424/ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8?icpid=3&RTS=1668594245&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 CCTV3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225634/2/index.m3u8
 CCTV3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225647/2/index.m3u8
 CCTV3,https://cntv.sbs/live05?id=cctv3
@@ -136,6 +142,14 @@ CCTV3,http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
 CCTV3,http://39.134.65.175/PLTV/88888888/224/3221225799/index.m3u8?$移动蓝光1080P
 CCTV3,http://39.135.138.59:18890/PLTV/88888910/224/3221225647/index.m3u8
 CCTV3,http://111.20.33.93/TVOD/88888893/224/3221226397/index.m3u8
+CCTV4,http://hz752.love:63/live_ffb0/astv.php?id=cctv4hd
+CCTV4,http://hz752.love:63/live_ffb0/bst.php?id=cctv4
+CCTV4,http://hz752.love:63/live_ffb0/mak.php?id=cctv4
+CCTV4,http://hz752.love:63/live_ffb0/cqyx.php?id=cctv4HD
+CCTV4,http://hz752.love:63/live_ffb0/yst.php?id=cctv-4
+CCTV4,http://hz752.love:63/live_ffb0/migu.php?id=cctv4
+CCTV4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
+CCTV4,http://hz752.love:63/live_ffb0/bfgd.php?id=063
 CCTV4,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3772680253_-1555628407/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8?icpid=3&RTS=1668594272&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV4中文国际,http://39.134.63.11:6610/PLTV/88888888/224/3221226007/index.m3u8?i
 CCTV4中文国际,http://39.134.193.100:6610/030000001001/CCTV4-/1.m3u8?i
@@ -644,7 +658,8 @@ CCTV-风云剧场,rtsp://221.203.83.35/PLTV/88888888/224/3221226671/100001000000
 涪陵电视,http://livefuling.chinamcache.com/liveful/fldszb001.flv?zzhongqd
 
 ⛵  港•澳•台,#genre#
-凤凰中文,http://sc2022.stream-link.org/list.php?id=h014
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv凤凰中文,http://sc2022.stream-link.org/list.php?id=h014
 凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰中文,http://103.112.191.9:880/LAOSAT1015.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
