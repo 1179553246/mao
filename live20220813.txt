@@ -1,6 +1,9 @@
 🇨🇳󠁧󠁢󠁥󠁮潇洒央视,#genre#
-温岭新闻综合,http://hz752.love:63/live_ffb0/ady.php?id=wlxwzh
-温岭民生休闲,http://hz752.love:63/live_ffb0/ady.php?id=wlmsxx
+经典功夫台,https://cn-sdqd-cu-01-18.bilivideo.com/live-bvc/701749/live_179302204_68184269/index.m3u8
+凤凰中文台,mitv://generationnexxxt.com:19806/633d55a11b1041cbb5506d87c9af5cef
+凤凰资讯台,mitv://generationnexxxt.com:19806/770c02fcf6dd4d2f930f6eca5615f972
+凤凰香港台,mitv://generationnexxxt.com:19806/99c46ef537f942fda79c120d8190468a
+翡翠台,mitv://generationnexxxt.com:19806/54c3858019ed42bfbfbebd7f9d9e2db6
 测试频道,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 CCTV1,http://cache.ott.fifalive.itv.cmvideo.cn:80/1000000001000021973/1.m3u8?Contentid=1000000001000021973&livemode=1&stbId=3&channel-id=ystenlive
 CCTV1,http://111.11.123.49:6610/000000001000/6378322924784308075/1.m3u8?Contentid=6378322924784308075&livemode=1&stbId=3&channel-id=bestzb
