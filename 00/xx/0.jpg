@@ -35,8 +35,11 @@
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/ProfessionalEdition.m3u8",
             "name": "🐱不良帅2"
         },
-         {"url": "https://gitee.com/zalman2022/mytv/raw/master/xiaohuang.json",
-        "name": "🎋小晃"
+         {"url": "https://agit.ai/zhuang/Home/raw/branch/master/cs.json",
+        "name": "🎋cstk"
+    },
+      {"url": "https://agit.ai/zhuang/Home/raw/branch/master/home.json",
+        "name": "🎋hotk"
     },
         {
             "url": "https://qu.ax/btMU.png",
@@ -70,8 +73,8 @@
             "url": "http://52bsj.vip:98/wuai",
             "name": "吾爱"
         },
-         {"url": "http://www.tvbox.lltv8.top/TVBox/lib/猎狼TV吧.json",
-        "name": "猎狼🐺"
+         {"url": "https://tvbox.meitufu.com/TVBox/tv.json",
+        "name": "☀️太阳"
     },
     {
             "url": "https://download.kstore.space/download/2863/01.txt",
