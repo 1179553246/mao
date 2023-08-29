@@ -22,10 +22,13 @@
             "url": "https://pastebin.com/raw/e3A5M7gd",
             "name": "🏡默认内置（备用）0"
         },
-        
+        {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+            "name": "🌾PG one🌾"
+        },
          {
-            "url": "http://tv.lengniuge.ga/yingshi",
-            "name": "🐂楞牛"
+            "url": "http://ravenall.space3v.work/Raven-Dc.json",
+            "name": "🐂乌鸦"
         },
         {
             "url": "https://notabug.org/qizhen15800/My9394/raw/master/不良帅.m3u8",
@@ -123,7 +126,7 @@
 
 { "url": "https://agit.ai/kvymin/TV/raw/branch/master/JavaScript.json", "name": "在线t" },
 
-{ "url": "https://agit.ai/kvymin/TV/raw/branch/master/Pandora.json", "name": "在线K" },
+{ "url": "https://agit.ai/wsdhl123/whtv/raw/branch/master/TVBox/tv.json", "name": "在线K" },
 
 
 { "url": "https://download.kstore.space/download/3313/mao/ymshaoer", "name": "少儿频道" },
