@@ -152,6 +152,8 @@
 
 { "url": "http://pandown.pro/tvbox/tvbox.json", "name": "巧儿" },
 
+{ "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧儿云" },
+
 { "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json", "name": "巧儿备用" },
 
 {
