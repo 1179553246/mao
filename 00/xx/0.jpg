@@ -19,7 +19,7 @@
             "name": "⛳️默认内置（备用）2"
         },
          {
-            "url": "https://pastebin.com/raw/e3A5M7gd",
+            "url": "https://try.gitea.io/ygfxz/0/raw/branch/main/001.png",
             "name": "🏡默认内置（备用）0"
         },
         {
@@ -114,9 +114,53 @@
 
 { "url": "https://pastebin.com/raw/5NHaxyGR", "name": "道长js" },
 
-{ "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "高天流云js" },
-
-{ "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json", "name": "高天流云XYQ" },
+{
+      "url": "https://999740.xyz/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json",
+      "name": "高天流云 No.1"
+    },
+    {
+      "url": "https://999740.xyz/https://raw.githubusercontent.com/debaters6/XYQ/master/0822.json",
+      "name": "高天流云 No.2"
+    },
+    {
+      "url": "https://999740.xyz/https://raw.githubusercontent.com/debaters6/XYQ/master/0825.json",
+      "name": "高天流云 PG"
+    },
+    {
+      "url": "https://999740.xyz/https://raw.githubusercontent.com/debaters6/XYQ/master/0826.json",
+      "name": "高天流云 FTY"
+    },
+    {
+      "url": "https://999740.xyz/https://raw.githubusercontent.com/debaters6/XYQ/master/0827.json",
+      "name": "高天流云 FM"
+    },
+    {
+      "url": "https://999740.xyz/https://raw.githubusercontent.com/debaters6/XYQ/master/js.json",
+      "name": "高天流云 JS"
+    },
+    {
+      "url": "https://999740.xyz/https://raw.githubusercontent.com/debaters6/XYQ/master/XYQTVBox.json",
+      "name": "香雅情(海阔推送)",
+      "time": "2023-04-19"
+    },
+    {
+      "url": "https://999740.xyz/https://raw.githubusercontent.com/debaters6/XYQ/master/drpy_js/drjs_config.json",
+      "name": "道长JS",
+      "time": "2023-04-16"
+    },
+    {
+      "url": "https://999740.xyz/https://raw.githubusercontent.com/debaters6/XYQ/master/qiaoji/qjtvbox.json",
+      "name": "巧计",
+      "time": "2023-11-03 10:33:33"
+    },
+    {
+      "url": "https://999740.xyz/https://raw.githubusercontent.com/debaters6/XYQ/master/XBPQ.json",
+      "name": "高天流云 XBPQ"
+    },
+    {
+      "url": "https://999740.xyz/https://raw.githubusercontent.com/debaters6/XYQ/master/XYQ1.json",
+      "name": "高天流云 XYQ"
+    },
 
 { "url": "http://rihou.cc:88/荷城茶秀", "name": "荷城茶秀" },
 
