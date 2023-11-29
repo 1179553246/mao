@@ -7,8 +7,8 @@
             "name": "💕默认备用"
         },
         {
-            "url": "https://gitee.com/fragrance-in-chu/mys/raw/master/000.m3u8",
-            "name": "🐻默认云端"
+            "url": "https://pan.shangui.cc/f/g1vLFV/001.json",
+            "name": "🐻默认跑路"
         },
         {
             "url": "https://jihulab.com/0004/0/-/raw/main/001.png?inline=false",
@@ -49,8 +49,8 @@
         "name": "🎋hotk"
     },
         {
-            "url": "https://gitee.com/fragrance-in-chu/mys/raw/master/001.png",
-            "name": "备用云端"
+            "url": "https://pan.shangui.cc/f/a1eYf2/000.json",
+            "name": "备用跑路"
         },
         {
             "url": "https://download.kstore.space/download/4127/000.m3u8",
@@ -237,13 +237,17 @@
 "url":"https://download.kstore.space/download/4907/jcsq/fx.json"},
 
 {
-      "name": "👨‍⚖️｜业余影视在线版｜👨‍⚖️",
-      "url": "http://111.67.195.139/yydf/yyff.json"
+      "name": "👨‍⚖️｜玉玉",
+      "url": "http://8.210.232.168/xc.json"
     },
     {
-      "name": "♻️｜业余在线虚拟机仓｜♻️",
-      "url": "http://ftp6587948.host121.sanfengyun.cn/yydf/yydf.json"
+      "name": "♻️｜业余在线",
+      "url": "http://111.67.195.139/yydf/yyffjk.json"
     },
+    {
+            "name": "🥃业余打發",
+            "url": "http://ftp6587948.host121.sanfengyun.cn/yydf/yydfjk.json"
+        },
     {
       "name": "♻️｜贼群友vip仓｜♻️",
       "url": "http://ftp6587948.host121.sanfengyun.cn/tvboxvip.json"
@@ -253,24 +257,24 @@
       "url": "http://ftp6587948.host121.sanfengyun.cn/alii1.json"
     },
     {
-      "name": "♻️业余专源♻️",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yeyu/yydf_tv.json"
+      "name": "♻️小重楼",
+      "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
     },
      {
-      "name": "♻️业余[跑路云盘仓]♻️",
-      "url": "https://pan.shangui.cc/f/Vna8h8/yydf.json"
+      "name": "♻️去看4K",
+      "url": "https://codeberg.org/hengxing/hx/raw/branch/main/qb4k.txt"
     },
     {
-      "name": "♻️业余[Github仓]♻️",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json"
+      "name": "♻️冷牛",
+      "url": "http://biu.alwaysdata.net/box.json"
     },
     {
-      "name": "♻️业余[虚拟机仓] ♻️",
-      "url": "http://ftp6587948.host121.Sanfengyun.cn/yydf/yydf.json"
+      "name": "♻️cat满接口",
+      "url": "http://122.51.37.23/man/cally4.xx.json"
     },
     {
-      "name": "♻️业余[云服务器仓]♻️",
-      "url": "http://111.67.195.139/yydf/yyff.json"
+      "name": "♻️缘聚缘散",
+      "url": "https://agit.ai/alanchaotang/if/raw/branch/main/X.json"
     },
 
 {"name":"熊猫不叫猫","url":"https://s2.pub/xmbjmxdc"},
