@@ -5,6 +5,7 @@
 小莉帮忙,http://media2.hndt.com/data_01/1/3/2023/01/15/1f2b16f5ca922e4f442d54b7ea6c9643.mp4
 海峡两岸,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/93dafada4e35457788319f02f5063529/1200.m3u8
 中国天气,http://[2409:8087:1e03:21::35]:6610/cms001/ch00000090990000001102/index.m3u8?IASHttpSessionId=RR1550020231201050336120465&ispcode=12#http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
+
 🇨🇳｜历年春晚,#genre#	
 春晚1983,https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4	
 春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4	
@@ -1974,7 +1975,7 @@ CHC家庭影院,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw
 体坛名栏汇,http://hms2904nc1972666633.live.aikan.miguvideo.com/wh7f454c46tw1600458454_-832716323/wd_r3/cctv/titanminglan/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073750&ContentId=265218759&timezone=UTC&mtv_session=b2e617f735c59ee2def1e133e7a80a5c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0c1268f6846ee93a05130bcd7741b787
 新片放映厅,http://hms2904nc1972666634.live.aikan.miguvideo.com/wh7f454c46tw1600732348_-360169236/wd-virtuallive5100030975-150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073750&ContentId=265218930&timezone=UTC&mtv_session=63000e2fea84d8a6504746c34e7d4d75&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b6ef40cfda8ddfec090a09afb9dd2444
 
-🟢丨范明明,#genre#
+🟢丨范明明tv,#genre#
 CCTV-1 综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-2 财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
 CCTV-3 综艺,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
@@ -2285,7 +2286,7 @@ HTV-5青少.体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 
-移动专区,#genre#
+🚎丨移动专区,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
@@ -3071,13 +3072,14 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 为天使护航,http://gcksc.v.kcdnvip.com/gc/zsslsfwsgz_1/index.m3u8
 为天使护航,http://gcbsc.v.live.baishancdnx.cn/gc/zsslsfwsgz_1/index.m3u8
 
-🏀体育频道🏀,#genre#
+🏀丨体育频道,#genre#
 CCTV5体育,http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
 CCTV5+,http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
 緯來體育台,http://cloud.yumixiu768.com/tmp/123.m3u8
 高尔夫网球,http://hls.live.cqccn.com/__cl/cg:live/__c/golfHD/__op/default/__f/index.m3u8
 风云足球,http://hls.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
 央视台球,http://hls.live.cqccn.com/__cl/cg:live/__c/ystqHD/__op/default/__f/index.m3u8
+国外体育,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 魅力足球,mitv://generationnexxxt.com:19806/61bcf24fc6eb4fd482d3519687e2aaf4
 五星体育,mitv://generationnexxxt.com:19806/dbb656a3a89340cfbe08007f521fccfd
 广东体育,mitv://generationnexxxt.com:19806/99a6d27c4aff4490aaf7cdeb53af3382
@@ -3131,7 +3133,7 @@ CCTV5-,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212263
 高二,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
 高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 
-🦋移动IPV6,#genre#
+🦋丨移动IPV6,#genre#
 
 CCTV-1 综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-2 财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
@@ -12092,7 +12094,87 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 经典合集2,http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
 怀旧音乐,http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
 
-🍌4.0🍌_xjvip,#genre#
+📛丨MTV怀旧,#genre#
+BEYOND-血染的风采,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201217/5623330UVqF1sc8YPbod665sH.mp4
+许巍-蓝莲花(演唱会),http://em.21dtv.com/songs/60026063.mkv
+许巍-漫步(演唱会),http://em.21dtv.com/songs/60028561.mkv
+陈百强-今宵多珍重(演唱会),http://em.21dtv.com/songs/60023922.mkv
+陈百强-偏偏喜欢你,http://em.21dtv.com/songs/60033420.mkv
+任贤齐+周华健-天才白痴梦(演唱会),http://em.21dtv.com/songs/60041753.mkv
+汪明荃-万水千山总是情(演唱会),http://em.21dtv.com/songs/60043309.mkv
+TWINS-恋爱大过天(演唱会),http://em.21dtv.com/songs/60026998.mkv
+李宇春-零点五英里(演唱会),http://em.21dtv.com/songs/60027451.mkv
+黄品源+任贤齐-浪花一朵朵(演唱会),http://em.21dtv.com/songs/60026219.mkv
+陈慧娴-黎明不要来(演唱会),http://em.21dtv.com/songs/60026831.mkv
+林子祥+谢安琪-俩忘烟水里(演唱会),http://em.21dtv.com/songs/60076405.mkv
+谭咏麟+李克勤-理想与和平(演唱会),http://em.21dtv.com/songs/60026892.mkv
+孙楠+韩红-美丽的神话,http://em.21dtv.com/songs/60029223.mkv
+伍佰-美丽新世界(演唱会),http://em.21dtv.com/songs/60029283.mkv
+黄小琥-没那么简单,http://em.21dtv.com/songs/60028730.mkv
+颜福伟-明日话今天(演唱会),http://em.21dtv.com/songs/60030133.mkv
+谭咏麟+李克勤-梦仍是一样(演唱会),http://em.21dtv.com/songs/60029634.mkv
+汪峰-怒放的生命(演唱会),http://em.21dtv.com/songs/60032787.mkv
+伍佰-挪威的森林(演唱会),http://em.21dtv.com/songs/60032810.mkv
+高胜美-你走你的路,http://em.21dtv.com/songs/60032577.mkv
+张智霖+许秋怡-片片枫叶情(演唱会),http://em.21dtv.com/songs/60033436.mkv
+辛晓琪-亲爱的小孩,http://em.21dtv.com/songs/60077183.mkv
+邰正宵-亲爱的小孩,http://em.21dtv.com/songs/60097616.mkv
+容祖儿-去火星恋爱(演唱会),http://em.21dtv.com/songs/60035841.mkv
+王铮亮-千金不换爱,http://em.21dtv.com/songs/60111292.mkv
+BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
+李玉刚-清明上河图,http://em.21dtv.com/songs/60034888.mkv
+慢摇舞曲-全民社会摇 (DJ),http://em.21dtv.com/songs/30000601.mkv
+侧田-千亿个夜晚(演唱会),http://em.21dtv.com/songs/60034179.mkv
+林子祥-千亿个夜晚(演唱会),http://em.21dtv.com/songs/60034180.mkv
+山鹰组合-七月火把节(演唱会),http://em.21dtv.com/songs/60067315.mkv
+容祖儿+古巨基-情义两心坚(演唱会),http://em.21dtv.com/songs/60035407.mkv
+刘德华-如果有一天(演唱会),http://em.21dtv.com/songs/60036969.mkv
+童安格-让生命等候,http://em.21dtv.com/songs/60036098.mkv
+黄凯芹-若生命等候(演唱会),http://em.21dtv.com/songs/60037108.mkv
+钟镇涛-让一切随风(演唱会),http://em.21dtv.com/songs/60036211.mkv
+刘德华-世界第一等(演唱会),http://em.21dtv.com/songs/60039259.mkv
+陈慧娴-逝去的诺言(演唱会),http://em.21dtv.com/songs/60039551.mkv
+伍佰-突然的自我(演唱会),http://em.21dtv.com/songs/60042927.mkv
+彭羚+容祖儿-心淡(演唱会),http://em.21dtv.com/songs/60084239.mkv
+谢有才-兄弟(演唱会),http://em.21dtv.com/songs/60084288.mkv
+张行+杨波-三百六十五里路(演唱会),http://em.21dtv.com/songs/60037168.mkv
+小武-迟到,http://em.21dtv.com/songs/60012779.mkv
+陈百强-念亲恩(演唱会),http://em.21dtv.com/songs/60032661.mkv
+任贤齐+李宗盛-鬼迷心窍,http://em.21dtv.com/songs/60019402.mkv
+薰妮-故乡的雨,http://em.21dtv.com/songs/60019097.mkv
+安东阳+樊桐舟-万水千山总是爱,http://em.21dtv.com/songs/60099201.mkv
+动力火车+迪克牛仔-一样的月光(演唱会),http://em.21dtv.com/songs/60053816.mkv
+张国荣-侧面(演唱会),http://em.21dtv.com/songs/60012140.mkv
+刘德华-缠绵(演唱会),http://em.21dtv.com/songs/60012256.mkv
+陈慧娴-逝去的诺言,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/i78cWdjCSglPJHDaedL%40%40ld.m3u8
+得意的笑,http://vdown.kuwo.cn/resource//t4/22/49/ZAlSw_dVq1Q.mp4
+刀郎经典歌曲精选,https://vdse.bdstatic.com//4fcca19a19aa4974230c5ee70ab5fa55.mp4
+手心里的温柔-西海情歌-披着羊皮,https://vdse.bdstatic.com//2f53687e421524efba9ba2b528f7bd12.mp4
+披着羊皮的狼-西海情歌-冲动,https://vdse.bdstatic.com//bfbb0871ed01eb3328497faae6a8531b.mp4
+窗外-同桌的你-心太软-心雨-小芳,https://vdse.bdstatic.com//97183ae857df5213fcfaf0fabc18efc3.mp4
+孟庭苇-冬季到台北来看雨,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Pd8qTC385qKJVXaXcKj%40%40hd.m3u8
+孟庭苇-风中有朵雨做的云,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Cg9qI5imMInpPvK5Mnm%40%40hd.m3u8
+孟庭苇-不下雨就出太阳吧,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/lhaW77A2RRwiJrh0CiJ%40%40hd.m3u8
+卓依婷鲁冰花,http://vd3.bdstatic.com/mda-jf8fbjprnf1fvpxm/mda-jf8fbjprnf1fvpxm.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+依婷爱拼才会赢,http://vd3.bdstatic.com/mda-jfreugw1pcza8xr1/mda-jfreugw1pcza8xr1.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷心挂意无处用,http://vd3.bdstatic.com/mda-jfkgx7x5gki9xpgs/mda-jfkgx7x5gki9xpgs.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷免失志,http://vd3.bdstatic.com/mda-jdngvdh4ru0irwma/mda-jdngvdh4ru0irwma.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷歹路不通行,http://vd3.bdstatic.com/mda-imigfktdeeseud4j/mda-imigfktdeeseud4j.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷东南西北风,http://vd3.bdstatic.com/mda-jf9fszd51shymgp6/mda-jf9fszd51shymgp6.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D卓依婷蜗牛与黄鹂鸟,http://vd3.bdstatic.com/mda-jfjnacpfn6r21dec/mda-jfjnacpfn6r21dec.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷爱情一阵风,http://vd3.bdstatic.com/mda-jf5fre7jvd0q3rfu/mda-jf5fre7jvd0q3rfu.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷梦醒十分,http://vd3.bdstatic.com/mda-jennyc5ci1ugrxzi/mda-jennyc5ci1ugrxzi.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷擦干眼泪,http://vd3.bdstatic.com/mda-jeqd4kq8iwh67a1k/mda-jeqd4kq8iwh67a1k.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷捉泥鳅,http://vd3.bdstatic.com/mda-jf6k8v71hrs8s441/mda-jf6k8v71hrs8s441.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷电话情思,http://vd3.bdstatic.com/mda-jfghscj8datutink/mda-jfghscj8datutink.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷杜十娘,http://vd3.bdstatic.com/mda-jekst5s3c341xwyd/mda-jekst5s3c341xwyd.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷莫辜负好时光,http://vd3.bdstatic.com/mda-jfkkh6m5u47trvqc/mda-jfkkh6m5u47trvqc.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+卓依婷无言的结局,http://vd3.bdstatic.com/mda-jenpdiydc7kez9ze/mda-jenpdiydc7kez9ze.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+二小姐酒梦,http://vd4.bdstatic.com/mda-jisq7k1t5n821tjt/sc/mda-jisq7k1t5n821tjt.mp4
+王彩华爱情的骗子我问你,http://vd4.bdstatic.com/mda-jm4h7v1isxwc660u/sc/mda-jm4h7v1isxwc660u.mp4
+小凤凤爱情一阵风,http://vd2.bdstatic.com/mda-jjm7vgq1iahz0zpg/mda-jjm7vgq1iahz0zpg.mp4
+张秀卿车站,http://vd2.bdstatic.com/mda-jjmnjgiabtvmy13u/sc/mda-jjmnjgiabtvmy13u.mp4
+情歌皇后林翠萍《相见不如不见》,https://vdse.bdstatic.com//1f65ad884619a069c68572f1ac9e2b0e.mp4
+🍌4.0🍌_xjvip,#genre#
 「射区独家-推车哥探花」温婉可人口技一流 气质美人极致服务,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/je/z7/ft/ou/4d5dd95c4f55404ab77f081b4f1d9615.m3u8?
 「射区独家-小文探花」懵懂少女绝顶失神 玉腿横陈少经床事,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/ov/ph/4g/76/6adb951aded14269b9c0c82d3955251d.m3u8?
 「射区独家- 老司机探花」胸大腰细眉眼如丝 母狗网红发情求欢,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/45/j2/e6/mp/fe17bcf982824ca9b151759f88e8320f.m3u8?
